@@ -1,10 +1,10 @@
-Using Lucidchart and Lucidpress
+# Using Lucidchart and Lucidpress
 
 Your technology enables you to use web applications you might not have previously been able to access.  As a government user we expect a good degree of sophistication when working with data.  We have a shared responsibility to keep the right things safe.
 
 The technology team have evaluated Lucid against the [Cloud Security Principles](https://www.gov.uk/government/publications/cloud-service-security-principles/cloud-service-security-principles) created by NCSC.
 
-# About Lucidchart and Lucidpress
+## About Lucidchart and Lucidpress
 
 Lucidpress is a web-based drag and drop publishing and page layout application for creating content for print or digital.  Lucidchart is a web based diagramming tool similar to Microsoft Visio.
 
@@ -12,7 +12,7 @@ The technology team has a limited number of licenses for Lucidchart and Lucidpre
 
 Lucid make public their [terms of service](https://www.lucidchart.com/pages/tos) and [privacy policy](https://www.lucidchart.com/pages/privacy).
 
-# Considerations when using Lucidchart or Lucidpress
+## Considerations when using Lucidchart or Lucidpress
 
 The technology team have evaluated Lucidchart and Lucidpress against the [Cloud Security Principles](https://www.gov.uk/government/publications/cloud-service-security-principles/cloud-service-security-principles) created by NCSC which includes any outstanding issues with it's use.
 
@@ -26,13 +26,19 @@ Lucidchart and Lucidpress are considered reasonably secure and appropriate for m
 
 >     1. Lucid is a US based company.  Data is stored in US data centres hosted by Amazon.
 
->     2. Like all cloud services the product could change over time.  New features are added or features may be withdrawn.  We have little control over this beyond the feature request process:[https://lucidchart.zendesk.com/forums/21398513-Current-Feature-Requests](https://lucidchart.zendesk.com/forums/21398513-Current-Feature-Requests)As a registered user you are able and encouraged to participate in this process to help guide the development of the product.
+>     2. Like all cloud services the product could change over time.  New features are added or features may be withdrawn.  We have little control over this beyond the feature request process:
 
->     3. For data protection purposes Lucid are a data processor - we retain the status of data controller and are responsible for the data being appropriate to store in that service.  More information on these definition can be found on the ICO website:[https://ico.org.uk/media/for-organisations/documents/1546/data-controllers-and-data-processors-dp-guidance.pdf](https://ico.org.uk/media/for-organisations/documents/1546/data-controllers-and-data-processors-dp-guidance.pdf)
+[https://lucidchart.zendesk.com/forums/21398513-Current-Feature-Requests](https://lucidchart.zendesk.com/forums/21398513-Current-Feature-Requests)
+
+As a registered user you are able and encouraged to participate in this process to help guide the development of the product.
+
+>     3. For data protection purposes Lucid are a data processor - we retain the status of data controller and are responsible for the data being appropriate to store in that service.  More information on these definition can be found on the ICO website:
+
+[https://ico.org.uk/media/for-organisations/documents/1546/data-controllers-and-data-processors-dp-guidance.pdf](https://ico.org.uk/media/for-organisations/documents/1546/data-controllers-and-data-processors-dp-guidance.pdf)
 
 > <sub>4. You should use single sign on to authenticate to Lucid apps where available so no information (including passwords) is shared with Lucid during sign on.
 
-Information management guidance
+## Information management guidance
 
 > <sub>5. For information management purposes you should download copies of your completed documents in PDF, PNG, or VDX and store them in Google Drive.
 
