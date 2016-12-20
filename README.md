@@ -6,7 +6,7 @@ This repository contains two groups of documents aims at distinct groups of peop
 * information security professionals
 * end users or less technical support staff
 
-### End user guidance
+### Help for end users
 
 Documents for end users include guidance on:
 
@@ -16,7 +16,7 @@ Documents for end users include guidance on:
 
 You will need to sign up for a github account to access the third set of documents.
 
-### Information security guidance
+### Help for information security people
 
 Documents for information security people includes guidance on:
 
