@@ -18,31 +18,31 @@ The technology team have evaluated Lucidchart and Lucidpress against the [Cloud 
 
 Lucidchart and Lucidpress are considered reasonably secure and appropriate for much of the information at OFFICIAL, however there will be some information at OFFICIAL that is not appropriate to store with Lucid.  Users should consider the type and sensitivity of the data they store with Lucid, particularly in reference to the points below.
 
-> <sub>1. Lucidchart and Lucidpress are provided as subscription based software as a service (SaaS).  This means if there are issues with the service we can report them to Lucid and expect to have them resolved in a timely manner, but we do not have direct access to support the application.  We do however manage the provisioning of user accounts within the application and some administration settings.
+1. Lucidchart and Lucidpress are provided as subscription based software as a service (SaaS).  This means if there are issues with the service we can report them to Lucid and expect to have them resolved in a timely manner, but we do not have direct access to support the application.  We do however manage the provisioning of user accounts within the application and some administration settings.
 
-> <sub>2. Buy licenses under the standard [terms of service](https://www.lucidchart.com/pages/tos) provided or [understand the differences between the free and paid-for tiers](https://www.lucidchart.com/users/registerLevel?tP=1&t4=A&t10=A).
+2. Buy licenses under the standard [terms of service](https://www.lucidchart.com/pages/tos) provided or [understand the differences between the free and paid-for tiers](https://www.lucidchart.com/users/registerLevel?tP=1&t4=A&t10=A).
 
-> <sub>3. Users should always evaluate the [terms of service](https://www.lucidchart.com/pages/tos), [privacy policy](https://www.lucidchart.com/pages/privacy), and any other relevant documentation provided.  A summary of the key issues from these documents is included below.
+3. Users should always evaluate the [terms of service](https://www.lucidchart.com/pages/tos), [privacy policy](https://www.lucidchart.com/pages/privacy), and any other relevant documentation provided.  A summary of the key issues from these documents is included below.
 
->     1. Lucid is a US based company.  Data is stored in US data centres hosted by Amazon.
+* Lucid is a US based company.  Data is stored in US data centres hosted by Amazon.
 
->     2. Like all cloud services the product could change over time.  New features are added or features may be withdrawn.  We have little control over this beyond the feature request process:
+* Like all cloud services the product could change over time.  New features are added or features may be withdrawn.  We have little control over this beyond the feature request process:
 
-[https://lucidchart.zendesk.com/forums/21398513-Current-Feature-Requests](https://lucidchart.zendesk.com/forums/21398513-Current-Feature-Requests)
+https://lucidchart.zendesk.com/forums/21398513-Current-Feature-Requests
 
 As a registered user you are able and encouraged to participate in this process to help guide the development of the product.
 
->     3. For data protection purposes Lucid are a data processor - we retain the status of data controller and are responsible for the data being appropriate to store in that service.  More information on these definition can be found on the ICO website:
+* For data protection purposes Lucid are a data processor - we retain the status of data controller and are responsible for the data being appropriate to store in that service.  More information on these definition can be found on the ICO website:
 
 [https://ico.org.uk/media/for-organisations/documents/1546/data-controllers-and-data-processors-dp-guidance.pdf](https://ico.org.uk/media/for-organisations/documents/1546/data-controllers-and-data-processors-dp-guidance.pdf)
 
-> <sub>4. You should use single sign on to authenticate to Lucid apps where available so no information (including passwords) is shared with Lucid during sign on.
+* You should use single sign on to authenticate to Lucid apps where available so no information (including passwords) is shared with Lucid during sign on.
 
 ## Information management guidance
 
-> <sub>5. For information management purposes you should download copies of your completed documents in PDF, PNG, or VDX and store them in Google Drive.
+* For information management purposes you should download copies of your completed documents in PDF, PNG, or VDX and store them in Google Drive.
 
-> <sub>6. There is no content search on LucidChart Diagrams so title all diagrams in a clear and concise fashion in order to make them easy to find by others.
+* There is no content search on LucidChart Diagrams so title all diagrams in a clear and concise fashion in order to make them easy to find by others.
 
-> <sub>7. Diagrams created in LucidChart are subject to FOI, DPA and EIR.  You should handle information in Lucid according to the information management guidelines for the UK government.
+* Diagrams created in LucidChart are subject to FOI, DPA and EIR.  You should handle information in Lucid according to the information management guidelines for the UK government.
 
