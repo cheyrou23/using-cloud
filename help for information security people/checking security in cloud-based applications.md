@@ -1,0 +1,1 @@
+Security evaluations for cloud-based services should be done using the [Cloud Security Principles](https://www.gov.uk/government/publications/cloud-service-security-principles/cloud-service-security-principles) and [related guidance](https://www.ncsc.gov.uk/guidance/cloud-security-collection).
