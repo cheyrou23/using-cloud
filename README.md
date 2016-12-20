@@ -26,4 +26,4 @@ Documents for information security people includes guidance on:
 
 You will need to sign up for a github account to access the third set of documents.
 
-Use the comments section to provide feedback on documents, or submit changes to provide updates.
+Use the Issues section to provide feedback on documents, or submit changes to provide updates.
