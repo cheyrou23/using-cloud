@@ -24,13 +24,13 @@ Lucidchart and Lucidpress are considered reasonably secure and appropriate for m
 
 3. Users should always evaluate the [terms of service](https://www.lucidchart.com/pages/tos), [privacy policy](https://www.lucidchart.com/pages/privacy), and any other relevant documentation provided.  A summary of the key issues from these documents is included below.
 
-* Lucid is a US based company.  Data is stored in US data centres hosted by Amazon
+ * Lucid is a US based company.  Data is stored in US data centres hosted by Amazon
 
-* Like all cloud services the product could change over time.  New features are added or features may be withdrawn.  We have little control over this beyond the [feature request process](https://lucidchart.zendesk.com/forums/21398513-Current-Feature-Requests). As a registered user you are able and encouraged to participate in this process to help guide the development of the product.
+ * Like all cloud services the product could change over time.  New features are added or features may be withdrawn.  We have little control over this beyond the [feature request process](https://lucidchart.zendesk.com/forums/21398513-Current-Feature-Requests). As a registered user you are able and encouraged to participate in this process to help guide the development of the product.
 
-* For data protection purposes Lucid are a data processor - they retain the status of data controller and are responsible for the data being appropriate to store in that service.  More information on these definition can be found on the [ICO website](https://ico.org.uk/media/for-organisations/documents/1546/data-controllers-and-data-processors-dp-guidance.pdf)
+ * For data protection purposes Lucid are a data processor - they retain the status of data controller and are responsible for the data being appropriate to store in that service.  More information on these definition can be found on the [ICO website](https://ico.org.uk/media/for-organisations/documents/1546/data-controllers-and-data-processors-dp-guidance.pdf)
 
-* You should use single sign on to authenticate to Lucid apps where available so no information (including passwords) is shared with Lucid during sign on
+ * You should use single sign on to authenticate to Lucid apps where available so no information (including passwords) is shared with Lucid during sign on
 
 ### Information management guidance
 
