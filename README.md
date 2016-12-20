@@ -1,6 +1,6 @@
 # Using Cloud
 
-## Guidance to help people use cloud applications in a sensibly secure way
+#### Guidance to help people use cloud applications in a sensibly secure way
 
 This repository contains two groups of documents aims at distinct groups of people:
 
