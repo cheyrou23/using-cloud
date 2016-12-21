@@ -26,4 +26,10 @@ Documents for information security people includes guidance on:
 
 You will need to sign up for a github account to access the third set of documents.
 
+### Help for technology people
+
+Documents for technology people includes guidance on:
+
+* setting up particular services securely
+
 Use the Issues section to provide feedback on documents, or submit changes to provide updates.
