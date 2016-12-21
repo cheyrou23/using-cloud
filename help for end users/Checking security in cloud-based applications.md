@@ -18,7 +18,7 @@ When you choose an application consider the consequences of your data being lost
 
 If the data is meant to be public, it needs to be kept up-to-date.
 
->If the application will hold [personal](https://ico.org.uk/for-organisations/guide-to-data-protection/key-definitions/), or high value valuabledata, or large amounts of data, your IT security team should approve the application before use.
+>If the application will hold [personal](https://ico.org.uk/for-organisations/guide-to-data-protection/key-definitions/), or high value data, or large amounts of data, your IT security team should approve the application before use.
 
 ### Connect securely
 
