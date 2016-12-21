@@ -7,9 +7,7 @@ If you aren't sure, or you are working with personal, or high value data, or lar
 Before you start:
 
 * know the type and volume of data you are working with
-
 * give yourself time to investigate
-
 * write down your findings so you have a record you can pass to your IT security team
 
 ### Say no sometimes
