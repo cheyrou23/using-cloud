@@ -24,21 +24,21 @@ Trello [self-certify](https://www.privacyshield.gov/participant?id=a2zt0000000TO
 
 ### Using trello
 
-The trello profile is public and that anyone with internet access can view it (e.g. [https://trello.com/nickwoodcraft](https://trello.com/nickwoodcraft)).  This does not expose activity, comments, cards, organisation, or other details and will not show up in web searches.
+You can sign up for and use Trello for free or ask your IT team for a corporate account.
+
+Set your username to first_last, for example alex_black.  If you are going to work on boards used by other organisations set your username to first_last_organisation, for example alex_black_moj.
+
+Use a recognisable profile photo and put your role in 'What I do' so other people know who they are sharing information with.
+
+Use the [tour](https://trello.com/tour), [getting started guide](https://trello.com/guide) and [help](http://help.trello.com/) for guidance on using Trello.
+
+The Trello profile is public and that anyone with internet access can view it (e.g. [https://trello.com/nickwoodcraft](https://trello.com/nickwoodcraft)).  This does not expose activity, comments, cards, organisation, or other details and will not show up in web searches.
 
 Sign up to trello using your corporate email address to ensure separation between personal and work boards. [Delete your trello account](http://help.trello.com/article/749-deleting-your-trello-account) if you leave the organisation.
 
-Talk to your IT or information security team before connecting trello to another service.  For example you can connect trello to Google Drive, but this can give trello excessive access to Google Drive. If you have a paid account this option can be managed by your administrator.
+Talk to your IT or information security team before connecting Trello to another service.  For example you can connect trello to Google Drive, but this can give trello excessive access to Google Drive. If you have a paid account this option can be managed by your administrator.
 
 ### Managing information
-
-You can sign up for and use trello for free or use a Cabinet Office corporate account available.  There is no difference to the security or handling of your information but the corporate account does provide tools for information management and allows user account management to ensure people don't retain access after leaving the organisation.  If you are working on important projects where information needs protecting and retaining you should request a corporate account.
-
-
-
---------------------------------------------------------.
-
-#### Managing information
 
 Record or summarise important work information in a permanent record at regular intervals or at the end of a piece of work.
 
@@ -50,18 +50,6 @@ Delete completed cards of no historical value to reduce the volume of data that 
 
 Close completed boards on the understanding that closed boards untouched for 12 months may be deleted to reduce the volume of data that needs to be managed.
 
-#### Information Management activity
-
-KIM will assess for historic value large projects (greater than 12 months duration or subject to MPA scrutiny) 5 years after project completion and destroy content no longer of value.
-
-KIM will assess for historic value smaller projects (less than 12 months duration and not subject to MPA scrutiny) two years after project completion and destroy content no longer of value.
-
-KIM will ensure the application continues to be suitable for working with most data at OFFICIAL and keep end users informed of their responsibilities in doing so.
-
------------------------------------------------------
-
 ### Support
 
 Your internal IT team may not support Trello unless you have agreed that with them.  There is a [support site](http://help.trello.com/) and a [status page](http://www.trellostatus.com/), but no service level agreement unless you have a [paid account](https://trello.com/pricing).
-
-### Administrator configuration
