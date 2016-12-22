@@ -24,13 +24,13 @@ Trello [self-certify](https://www.privacyshield.gov/participant?id=a2zt0000000TO
 
 ### Using trello
 
-> <sub>1. The trello profile is public and that anyone with internet access can view it (e.g. [https://trello.com/nickwoodcraft](https://trello.com/nickwoodcraft)).  This does not expose activity, comments, cards, organisation, or other details and will not show up in web searches.
+The trello profile is public and that anyone with internet access can view it (e.g. [https://trello.com/nickwoodcraft](https://trello.com/nickwoodcraft)).  This does not expose activity, comments, cards, organisation, or other details and will not show up in web searches.
 
 ### Managing information
 
-> <sub>2. You can sign up for and use trello for free or use a Cabinet Office corporate account available.  There is no difference to the security or handling of your information but the corporate account does provide tools for information management and allows user account management to ensure people don't retain access after leaving the organisation.  If you are working on important projects where information needs protecting and retaining you should request a corporate account.
+You can sign up for and use trello for free or use a Cabinet Office corporate account available.  There is no difference to the security or handling of your information but the corporate account does provide tools for information management and allows user account management to ensure people don't retain access after leaving the organisation.  If you are working on important projects where information needs protecting and retaining you should request a corporate account.
 
-> <sub>3. Trello offers the option to attach documents from Google Drive to a card.  You should NOT use this option as it offers trello excessive access to your Google Drive.
+Trello offers the option to attach documents from Google Drive to a card.  You should NOT use this option as it offers trello excessive access to your Google Drive.
 
 --------------------------------------------------------.
 
@@ -48,9 +48,7 @@ Users should include a link to the trello board(s) of every project in the proje
 
 Any existing work related board(s) on other instances of trello to the corporate account to ensure data is properly protected and managed.
 
-Delete completed cards of no historical value to reduce the volume of data that needs to be managed.  To delete a card it should be archived then deleted:
-
-> <sub>[http://help.trello.com/customer/portal/articles/935742-archiving-and-deleting-cards](http://help.trello.com/customer/portal/articles/935742-archiving-and-deleting-cards)
+Delete completed cards of no historical value to reduce the volume of data that needs to be managed.  To delete a card it should be [archived then deleted](http://help.trello.com/customer/portal/articles/935742-archiving-and-deleting-cards)
 
 Close completed boards on the understanding that closed boards untouched for 12 months may be deleted to reduce the volume of data that needs to be managed.
 
