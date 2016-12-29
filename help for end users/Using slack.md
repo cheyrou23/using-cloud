@@ -1,6 +1,6 @@
 ## Using Slack
 
-Guidance for people using Slack in government
+Guidance for people using Slack in government. As a government user we expect a good degree of sophistication when working with data. We have a shared responsibility to keep the right things safe.
 
 ### Security
 
