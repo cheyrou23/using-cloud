@@ -4,15 +4,15 @@ Guidance for people using Lucidchart and Lucidpress in government. As a governme
 
 ### About Lucid apps
 
-Lucidpress is a web-based drag and drop publishing and page layout application for creating content for print or digital.
+Lucidpress is a web-based drag and drop publishing and page layout application for creating print or digital content.
 
-Lucidchart is a web based diagramming tool similar to Microsoft Visio.
+Lucidchart is a web-based diagramming tool similar to Microsoft Visio.
 
 ###Security
 
 Use a password made up of 3 random words, and ask your IT team to [setup single sign on](https://lucidchart.zendesk.com/hc/en-us/articles/207300096-Lucidchart-and-SAML). Lucid do not yet support two factor authentication.
 
-If you think someone may have accessed your account contact your administrator. If you lose a device that can access Lucid contact your administrator and [sign yourself out of all sessions](https://www.bettercloud.com/monitor/the-academy/how-to-sign-out-of-slack-on-all-devices-at-once/).
+If you think someone may have accessed your account contact your administrator.
 
 Use a [modern browser](https://whatbrowser.org) or the [iOS app](https://lucidchart.zendesk.com/hc/en-us/articles/207300176-iOS-10-Lucidchart-App-Quickview) to make sure you are using a secure (HTTPS) connection.
 
