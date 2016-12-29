@@ -8,7 +8,15 @@ The technology team have evaluated Lucid against the [Cloud Security Principles]
 
 Lucidpress is a web-based drag and drop publishing and page layout application for creating content for print or digital.  Lucidchart is a web based diagramming tool similar to Microsoft Visio.
 
-The technology team has a limited number of licenses for Lucidchart and Lucidpress Team accounts.  Only registered Team users are able to create and edit documents, but you can still sign up for a free account and view documents people have shared with you.
+Only registered Team users are able to create and edit documents, but free accounts can create public documents and view documents people have shared with you.
+
+###Security
+
+Use a password made up of 3 random words, and ask your IT team to [setup single sign on](https://lucidchart.zendesk.com/hc/en-us/articles/207300096-Lucidchart-and-SAML). Lucid do not yet support two factor authentication.
+
+If you think someone may have accessed your account contact your administrator. If you lose a device that can access Lucid contact your administrator and [sign yourself out of all sessions](https://www.bettercloud.com/monitor/the-academy/how-to-sign-out-of-slack-on-all-devices-at-once/).
+
+Use a [modern browser](https://whatbrowser.org) or a [Slack client app](https://slack.com/downloads/) to make sure you are using a secure (HTTPS) connection.
 
 Lucid make public their [terms of service](https://www.lucidchart.com/pages/tos) and [privacy policy](https://www.lucidchart.com/pages/privacy).
 
@@ -39,3 +47,15 @@ Lucidchart and Lucidpress are considered reasonably secure and appropriate for m
 * There is no content search on LucidChart Diagrams so title all diagrams in a clear and concise fashion in order to make them easy to find by others.
 
 * Diagrams created in LucidChart are subject to FOI, DPA and EIR.  You should handle information in Lucid according to the information management guidelines for the UK government.
+
+### Administrator configuration
+
+Administrators should connect to an existing identity and access management service (if you are using a [paid account](https://www.lucidchart.com/pages/enterprise)). If this is not available regularly review and remove people who have left or no longer need access. Alternatively if you use [G Suite](https://gsuite.google.com/) you can require your users to authenticate via that.
+
+Administrators should also manage roles and managed access appropriately, limiting the number of people with administrator access.  Separate administrator accounts from the general user accounts of administrators.
+
+To keep live license numbers down you can periodically remove all user licenses. This reverts all accounts to the free tier without deleting data. When a user next logs in they can click to switch back to a paid account.
+
+Allow users to [connect Lucidchart and Lucidpress to Google Drive](https://lucidchart.zendesk.com/hc/en-us/articles/207300016-Lucidchart-in-Google-Drive) if it is used in your organisation, as it only requires permissions to files created in Lucid applications, not the entire Drive.
+
+
