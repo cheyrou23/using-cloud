@@ -26,7 +26,7 @@ Data is hosted in the US by Amazon Web Services and Lucid [may be asked to share
 
 [Manage document permissions carefully](https://lucidchart.zendesk.com/hc/en-us/articles/207300466-Share-Files-and-Folders) to ensure only those who need access can see them.
 
-Lucid don't currently offer data protection under European law such as the [EU-US Privacy Shield](https://www.privacyshield.gov/welcome). [You own the data](https://www.lucidchart.com/pages/privacy) you put in Lucid, and their technical security is similar to other popular public cloud services, however they reserve the right to review documents to help resolve problems or to ensure compliance with their terms of service, so you should not consider documents private.
+Lucid don't currently offer data protection under European law such as the [EU-US Privacy Shield](https://www.privacyshield.gov/welcome). [You own the data](https://www.lucidchart.com/pages/product_secure) you put in Lucid, and their technical security is similar to other popular public cloud services, however they reserve the right to review documents to help resolve problems or to ensure compliance with their terms of service, so you should not consider documents private.
 
 If you cancel your account you should delete your data first or [it may remain on Lucid servers](https://www.lucidchart.com/pages/tos).
 
@@ -52,10 +52,10 @@ Like all cloud services the product could change over time.  New features are ad
 
 Administrators should connect to an existing identity and access management service (if you are using a [paid account](https://www.lucidchart.com/pages/enterprise)). If this is not available regularly review and remove people who have left or no longer need access. Alternatively if you use [G Suite](https://gsuite.google.com/) you can require your users to authenticate via that.
 
+If not using single sign on administrators should set a strong password policy but [don't require users to reset passwords frequently](https://www.ncsc.gov.uk/blog-post/your-password-expiry-policy-may-have-reached-its-expiry-date).
+
 Administrators should also manage roles and managed access appropriately, limiting the number of people with administrator access.  Separate administrator accounts from the general user accounts of administrators.
 
-To keep license numbers down you can periodically revoke all user licenses. This reverts accounts to the free tier without deleting data. When a user next logs in they can click to switch back to a paid account.
+To keep license numbers down you can periodically revoke all user licenses. This reverts accounts to the free tier without deleting data. When a user next logs in they can click to switch back to a paid account. If users leave take control of their account and reassign, archive, or delete their data.
 
 Allow users to [connect Lucidchart and Lucidpress to Google Drive](https://lucidchart.zendesk.com/hc/en-us/articles/207300016-Lucidchart-in-Google-Drive) if it is used in your organisation, as it only requires permissions to files created in Lucid applications, not the entire Drive.
-
-
