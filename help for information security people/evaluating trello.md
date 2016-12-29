@@ -16,7 +16,7 @@ We aim to support the adoption of cloud-based applications in government.  If yo
 
 #### 1. Data in transit protection
 
-.Trello meets the objectives of this principle
+>Trello meets the objectives of this principle
 
 * connections to trello.com are encrypted between the browser and the trello.com web servers using TLS. The web servers support a [good cryptographic profile](https://www.gov.uk/guidance/transport-layer-security-tls-for-external-facing-services)
 
