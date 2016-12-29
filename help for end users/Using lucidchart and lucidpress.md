@@ -46,7 +46,7 @@ Only registered Team users are able to create and edit documents, but free accou
 
 Your internal IT team may not support Lucid apps unless you have agreed that with them.  There is a [support site](https://lucidchart.zendesk.com) and [status updates on twitter](https://twitter.com/lucidchart), but no service level agreement unless you have a [paid account](https://www.lucidchart.com/users/registerLevel). 
 
-Like all cloud services the product could change over time.  New features are added or features may be withdrawn.  We have little control over this beyond the [feature request process](https://lucidchart.zendesk.com/forums/21398513-Current-Feature-Requests). As a registered user you are able and encouraged to participate in this process to help guide the development of the product.
+Like all cloud services the product could change over time.  New features are added or may be withdrawn.  We have little control over this beyond the [feature request process](https://lucidchart.zendesk.com/forums/21398513-Current-Feature-Requests). Registered users can participate in the process to help guide development.
 
 ### Administrator configuration
 
