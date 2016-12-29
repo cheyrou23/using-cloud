@@ -16,29 +16,25 @@ Use a password made up of 3 random words, and ask your IT team to [setup single 
 
 If you think someone may have accessed your account contact your administrator. If you lose a device that can access Lucid contact your administrator and [sign yourself out of all sessions](https://www.bettercloud.com/monitor/the-academy/how-to-sign-out-of-slack-on-all-devices-at-once/).
 
-Use a [modern browser](https://whatbrowser.org) or a [Slack client app](https://slack.com/downloads/) to make sure you are using a secure (HTTPS) connection.
+Use a [modern browser](https://whatbrowser.org) or the [iOS app](https://lucidchart.zendesk.com/hc/en-us/articles/207300176-iOS-10-Lucidchart-App-Quickview) to make sure you are using a secure (HTTPS) connection.
 
-Lucid make public their [terms of service](https://www.lucidchart.com/pages/tos) and [privacy policy](https://www.lucidchart.com/pages/privacy).
+Lucidchart and Lucidpress are reasonably secure and appropriate for much of the information at OFFICIAL, but some information at is not appropriate.  Consider the type and sensitivity of the data you store with Lucid, and contact your IT security team for advice.
 
-### Considerations when using Lucidchart or Lucidpress
+### Privacy
 
-The technology team have evaluated Lucidchart and Lucidpress against the [Cloud Security Principles](https://www.gov.uk/government/publications/cloud-service-security-principles/cloud-service-security-principles) created by NCSC which includes any outstanding issues with it's use.
+Don't use Lucid apps to store [sensitive, personal](https://ico.org.uk/for-organisations/guide-to-data-protection/key-definitions/), or other high value data like commercial or financial information that could cause harm if lost or exposed.
 
-Lucidchart and Lucidpress are considered reasonably secure and appropriate for much of the information at OFFICIAL, however there will be some information at OFFICIAL that is not appropriate to store with Lucid.  Users should consider the type and sensitivity of the data they store with Lucid, particularly in reference to the points below.
+Content can be disclosed publicly under the [Freedom of Information Act](https://ico.org.uk/for-organisations/guide-to-freedom-of-information/what-is-the-foi-act/). All content in paid accounts can be retrieved by administrators.
 
-1. Lucidchart and Lucidpress are provided as subscription based software as a service (SaaS).  This means if there are issues with the service we can report them to Lucid and expect to have them resolved in a timely manner, but we do not have direct access to support the application.  We do however manage the provisioning of user accounts within the application and some administration settings.
+Lucid [may be asked to share data](https://www.lucidchart.com/pages/privacy) by the US government. 
 
-2. Buy licenses under the standard [terms of service](https://www.lucidchart.com/pages/tos) provided or [understand the differences between the free and paid-for tiers](https://www.lucidchart.com/users/registerLevel?tP=1&t4=A&t10=A).
+[Manage document permissions carefully](https://lucidchart.zendesk.com/hc/en-us/articles/207300466-Share-Files-and-Folders) to ensure only those who need access can see them.
 
-3. Users should always evaluate the [terms of service](https://www.lucidchart.com/pages/tos), [privacy policy](https://www.lucidchart.com/pages/privacy), and any other relevant documentation provided.  A summary of the key issues from these documents is included below.
+Lucid don't currently offer any data protection in line with European laws. [You own the data](https://www.lucidchart.com/pages/privacy) you put in Lucid, and their technical security is similar to other popular public cloud services, however they reserve the right to review documents to help resolve problems or to ensure compliance with their terms of service, so you should not consider documents private.
 
- * Lucid is a US based company.  Data is stored in US data centres hosted by Amazon
+Data is hosted in the US by Amazon Web Services.
 
- * Like all cloud services the product could change over time.  New features are added or features may be withdrawn.  We have little control over this beyond the [feature request process](https://lucidchart.zendesk.com/forums/21398513-Current-Feature-Requests). As a registered user you are able and encouraged to participate in this process to help guide the development of the product.
-
- * For data protection purposes Lucid are a data processor - they retain the status of data controller and are responsible for the data being appropriate to store in that service.  More information on these definition can be found on the [ICO website](https://ico.org.uk/media/for-organisations/documents/1546/data-controllers-and-data-processors-dp-guidance.pdf)
-
- * You should use single sign on to authenticate to Lucid apps where available so no information (including passwords) is shared with Lucid during sign on
+If you cancel your account you should delete your data first or [it may remain on Lucid servers](https://www.lucidchart.com/pages/tos).
 
 ### Information management guidance
 
@@ -47,6 +43,10 @@ Lucidchart and Lucidpress are considered reasonably secure and appropriate for m
 * There is no content search on LucidChart Diagrams so title all diagrams in a clear and concise fashion in order to make them easy to find by others.
 
 * Diagrams created in LucidChart are subject to FOI, DPA and EIR.  You should handle information in Lucid according to the information management guidelines for the UK government.
+
+### Support
+
+ * Like all cloud services the product could change over time.  New features are added or features may be withdrawn.  We have little control over this beyond the [feature request process](https://lucidchart.zendesk.com/forums/21398513-Current-Feature-Requests). As a registered user you are able and encouraged to participate in this process to help guide the development of the product.
 
 ### Administrator configuration
 
