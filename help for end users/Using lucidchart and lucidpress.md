@@ -59,3 +59,5 @@ Administrators should also manage roles and managed access appropriately, limiti
 To keep license numbers down you can periodically revoke all user licenses. This reverts accounts to the free tier without deleting data. When a user next logs in they can click to switch back to a paid account. If users leave take control of their account and reassign, archive, or delete their data.
 
 Allow users to [connect Lucidchart and Lucidpress to Google Drive](https://lucidchart.zendesk.com/hc/en-us/articles/207300016-Lucidchart-in-Google-Drive) if it is used in your organisation, as it only requires permissions to files created in Lucid applications, not the entire Drive.
+
+Consider a paid Enterprise account to prevent unmonitored use, manage document access, integrate into your existing single sign on service, and retain documents when people leave.
