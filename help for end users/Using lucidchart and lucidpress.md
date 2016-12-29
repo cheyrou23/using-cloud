@@ -26,7 +26,7 @@ Data is hosted in the US by Amazon Web Services and Lucid [may be asked to share
 
 [Manage document permissions carefully](https://lucidchart.zendesk.com/hc/en-us/articles/207300466-Share-Files-and-Folders) to ensure only those who need access can see them.
 
-Lucid don't currently offer any data protection in line with European laws. [You own the data](https://www.lucidchart.com/pages/privacy) you put in Lucid, and their technical security is similar to other popular public cloud services, however they reserve the right to review documents to help resolve problems or to ensure compliance with their terms of service, so you should not consider documents private.
+Lucid don't currently offer data protection under European law such as the [EU-US Privacy Shield](https://www.privacyshield.gov/welcome). [You own the data](https://www.lucidchart.com/pages/privacy) you put in Lucid, and their technical security is similar to other popular public cloud services, however they reserve the right to review documents to help resolve problems or to ensure compliance with their terms of service, so you should not consider documents private.
 
 If you cancel your account you should delete your data first or [it may remain on Lucid servers](https://www.lucidchart.com/pages/tos).
 
