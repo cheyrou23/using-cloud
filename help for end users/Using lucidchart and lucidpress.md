@@ -1,8 +1,6 @@
 ## Using Lucidchart and Lucidpress
 
-Your technology enables you to use web applications you might not have previously been able to access.  As a government user we expect a good degree of sophistication when working with data.  We have a shared responsibility to keep the right things safe.
-
-The technology team have evaluated Lucid against the [Cloud Security Principles](https://www.gov.uk/government/publications/cloud-service-security-principles/cloud-service-security-principles) created by NCSC.
+Guidance for people using Lucidchart and Lucidpress in government. As a government user we expect a good degree of sophistication when working with data. We have a shared responsibility to keep the right things safe.
 
 ### About Lucid apps
 
