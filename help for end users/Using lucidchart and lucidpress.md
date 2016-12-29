@@ -22,13 +22,11 @@ Don't use Lucid apps to store [sensitive, personal](https://ico.org.uk/for-organ
 
 Content can be disclosed publicly under the [Freedom of Information Act](https://ico.org.uk/for-organisations/guide-to-freedom-of-information/what-is-the-foi-act/). All content in paid accounts can be retrieved by administrators.
 
-Lucid [may be asked to share data](https://www.lucidchart.com/pages/privacy) by the US government. 
+Data is hosted in the US by Amazon Web Services and Lucid [may be asked to share data](https://www.lucidchart.com/pages/privacy) by the US government. 
 
 [Manage document permissions carefully](https://lucidchart.zendesk.com/hc/en-us/articles/207300466-Share-Files-and-Folders) to ensure only those who need access can see them.
 
 Lucid don't currently offer any data protection in line with European laws. [You own the data](https://www.lucidchart.com/pages/privacy) you put in Lucid, and their technical security is similar to other popular public cloud services, however they reserve the right to review documents to help resolve problems or to ensure compliance with their terms of service, so you should not consider documents private.
-
-Data is hosted in the US by Amazon Web Services.
 
 If you cancel your account you should delete your data first or [it may remain on Lucid servers](https://www.lucidchart.com/pages/tos).
 
