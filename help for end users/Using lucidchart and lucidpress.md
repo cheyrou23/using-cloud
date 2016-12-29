@@ -54,7 +54,7 @@ Administrators should connect to an existing identity and access management serv
 
 Administrators should also manage roles and managed access appropriately, limiting the number of people with administrator access.  Separate administrator accounts from the general user accounts of administrators.
 
-To keep live license numbers down you can periodically remove all user licenses. This reverts all accounts to the free tier without deleting data. When a user next logs in they can click to switch back to a paid account.
+To keep license numbers down you can periodically revoke all user licenses. This reverts accounts to the free tier without deleting data. When a user next logs in they can click to switch back to a paid account.
 
 Allow users to [connect Lucidchart and Lucidpress to Google Drive](https://lucidchart.zendesk.com/hc/en-us/articles/207300016-Lucidchart-in-Google-Drive) if it is used in your organisation, as it only requires permissions to files created in Lucid applications, not the entire Drive.
 
