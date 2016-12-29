@@ -4,11 +4,11 @@ Your technology enables you to use web applications you might not have previousl
 
 The technology team have evaluated Lucid against the [Cloud Security Principles](https://www.gov.uk/government/publications/cloud-service-security-principles/cloud-service-security-principles) created by NCSC.
 
-### About Lucidchart and Lucidpress
+### About Lucid apps
 
-Lucidpress is a web-based drag and drop publishing and page layout application for creating content for print or digital.  Lucidchart is a web based diagramming tool similar to Microsoft Visio.
+Lucidpress is a web-based drag and drop publishing and page layout application for creating content for print or digital.
 
-Only registered Team users are able to create and edit documents, but free accounts can create public documents and view documents people have shared with you.
+Lucidchart is a web based diagramming tool similar to Microsoft Visio.
 
 ###Security
 
@@ -17,8 +17,6 @@ Use a password made up of 3 random words, and ask your IT team to [setup single 
 If you think someone may have accessed your account contact your administrator. If you lose a device that can access Lucid contact your administrator and [sign yourself out of all sessions](https://www.bettercloud.com/monitor/the-academy/how-to-sign-out-of-slack-on-all-devices-at-once/).
 
 Use a [modern browser](https://whatbrowser.org) or the [iOS app](https://lucidchart.zendesk.com/hc/en-us/articles/207300176-iOS-10-Lucidchart-App-Quickview) to make sure you are using a secure (HTTPS) connection.
-
-Lucidchart and Lucidpress are reasonably secure and appropriate for much of the information at OFFICIAL, but some information at is not appropriate.  Consider the type and sensitivity of the data you store with Lucid, and contact your IT security team for advice.
 
 ### Privacy
 
@@ -36,17 +34,23 @@ Data is hosted in the US by Amazon Web Services.
 
 If you cancel your account you should delete your data first or [it may remain on Lucid servers](https://www.lucidchart.com/pages/tos).
 
-### Information management guidance
+### Information management
 
-* For information management purposes you should download copies of your completed documents in PDF, PNG, or VDX and store them in Google Drive.
+Record or summarise important work information in a permanent record at regular intervals or at the end of a piece of work.
 
-* There is no content search on LucidChart Diagrams so title all diagrams in a clear and concise fashion in order to make them easy to find by others.
+Use your document storage or email service to capture important discussions or decisions, and name the data so it can be found later as there is no content search within documents.
 
-* Diagrams created in LucidChart are subject to FOI, DPA and EIR.  You should handle information in Lucid according to the information management guidelines for the UK government.
+Download copies of your completed documents in PDF, PNG, or VDX.
+
+### Using Lucid apps
+
+Only registered Team users are able to create and edit documents, but free accounts can create public documents and view documents people have shared with you.
 
 ### Support
 
- * Like all cloud services the product could change over time.  New features are added or features may be withdrawn.  We have little control over this beyond the [feature request process](https://lucidchart.zendesk.com/forums/21398513-Current-Feature-Requests). As a registered user you are able and encouraged to participate in this process to help guide the development of the product.
+Your internal IT team may not support Lucid apps unless you have agreed that with them.  There is a [support site](https://lucidchart.zendesk.com) and [status updates on twitter](https://twitter.com/lucidchart), but no service level agreement unless you have a [paid account](https://www.lucidchart.com/users/registerLevel). 
+
+Like all cloud services the product could change over time.  New features are added or features may be withdrawn.  We have little control over this beyond the [feature request process](https://lucidchart.zendesk.com/forums/21398513-Current-Feature-Requests). As a registered user you are able and encouraged to participate in this process to help guide the development of the product.
 
 ### Administrator configuration
 
