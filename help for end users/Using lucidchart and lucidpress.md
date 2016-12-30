@@ -22,7 +22,7 @@ Don't use Lucid apps to store [sensitive, personal](https://ico.org.uk/for-organ
 
 Content can be disclosed publicly under the [Freedom of Information Act](https://ico.org.uk/for-organisations/guide-to-freedom-of-information/what-is-the-foi-act/). All content in paid accounts can be retrieved by administrators.
 
-Data is hosted in the US by Amazon Web Services and Lucid [may be asked to share data](https://www.lucidchart.com/pages/privacy) by the US government. 
+Data is hosted in the US by Amazon Web Services and Lucid and [may be subject to non-EU/UK laws and legislation](https://www.lucidchart.com/pages/privacy). 
 
 [Manage document permissions carefully](https://lucidchart.zendesk.com/hc/en-us/articles/207300466-Share-Files-and-Folders) to ensure only those who need access can see them.
 
