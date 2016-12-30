@@ -80,7 +80,7 @@ When making the assessment we found:
 
 #### 3. Separation From Other Consumers
 
->Trello partially meets the objectives of this principle.**
+>Trello partially meets the objectives of this principle
 
 * Trello is hosted on the AWS EC2 multitenant public cloud environment which is a multi-tenant
 
@@ -100,13 +100,13 @@ When making the assessment we found:
 
 #### 4. Governance framework 
 
->Trello does not meet the objectives of this principle.
+>Trello does not meet the objectives of this principle
 
 * Trello have not provided any information on their security governance functions.
 
 #### 5. Operational security
 
->Trello partially meets the objectives of this principle.
+>Trello partially meets the objectives of this principle
 
 * enterprise customers can report incidents to Trello Customer Support during office hours by phone or email
 
