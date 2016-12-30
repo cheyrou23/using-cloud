@@ -18,7 +18,7 @@ Use a [modern browser](https://whatbrowser.org) or the [iOS app](https://lucidch
 
 ### Privacy
 
-Don't use Lucid apps to store [sensitive, personal](https://ico.org.uk/for-organisations/guide-to-data-protection/key-definitions/), or other high value data like commercial or financial information that could cause harm if lost or exposed.
+Don't use Lucid apps to store [sensitive, personal](https://ico.org.uk/for-organisations/guide-to-data-protection/key-definitions/), or other high value data like commercial or financial information, that could cause harm if lost or exposed.
 
 Content can be disclosed publicly under the [Freedom of Information Act](https://ico.org.uk/for-organisations/guide-to-freedom-of-information/what-is-the-foi-act/). All content in paid accounts can be retrieved by administrators.
 
