@@ -82,7 +82,7 @@ When making the assessment we found:
 
 >Trello partially meets the objectives of this principle
 
-* Trello is hosted on the AWS EC2 multitenant public cloud environment which is a multi-tenant
+* Trello is hosted on the AWS EC2 public cloud environment which is a multi-tenant
 
 * the service is certified against ISO27001:2013 and PCI-DSS standards
 
