@@ -7,19 +7,19 @@ The [Technology Code of Practice](https://www.gov.uk/government/publications/tec
 
 It can be difficult to know when and application is genuine cloud and not a hosted application rebadged as ‘cloud’, or some sort of hybrid arrangement.  We prefer genuine public cloud applications in most cases.  They can operate at greater scale, as a result tend to offer more innovation, reliability, and lower cost, but can carry [greater risk](https://www.ncsc.gov.uk/guidance/separation-and-cloud-security#publicC). Public cloud applications should:
 
-be multi-tenanted, serving multiple customers from shared infrastructure
-provide consistent availability and performance irrespective of demand
-device agnostic and usually browser and mobile first
-use a subscription licensing model
-use virtualised infrastructure and scale invisibly to the user
-provide regular updates without service disruption
-let you sign up for a free trial without the vendor’s help
-provide open APIs
+* be multi-tenanted, serving multiple customers from shared infrastructure
+* provide consistent availability and performance irrespective of demand
+* device agnostic and usually browser and mobile first
+* use a subscription licensing model
+* use virtualised infrastructure and scale invisibly to the user
+* provide regular updates without service disruption
+* let you sign up for a free trial without the vendor’s help
+* provide open APIs
 
 You may also come across two other types of cloud service:
 
-community, where a group, like the public sector, shares infrastructure
-private, where only a single organisation can use the service
+* community, where a group, like the public sector, shares infrastructure
+* private, where only a single organisation can use the service
 
 Community cloud applications provide additional security benefits at the cost of scalability, reliability, flexibility and innovation. Private cloud goes a step further to restrict to a single organisation.  While these may be appropriate in some circumstances they are likely to be a rebadged traditional hosting arrangement rather than a genuine cloud service, and do not meet the [cloud first policy](https://www.gov.uk/government/news/government-adopts-cloud-first-policy-for-public-sector-it).
 
