@@ -60,9 +60,12 @@ If your outbound mail passes through a filtering service in addition to Exchange
 
 ###Assessment
 The domain information tool will check you have encryption and anti-spoofing configured.  You will also need to pass a cloud-based email service assessment to ensure your email service is configured and run in a secure way.
+
 There is no requirement to route Office 365 email via the PSN to pass this assessment, even for gsi.gov.uk or gcsx.gov.uk email addresses. If you are moving a domain traditionally associated with the PSN use a simpler gov.uk domain name as you primary domain name and the legacy domain name as an alias. Pass the assessment with the primary domain name before moving the legacy alias across.
+
 [Create a new ticket](https://emailassurance.zendesk.com/hc/en-us/requests/new?ticket_form_id=134149) to request an email assessment and read the guidance in the form on the assessment process.
 
 ###Use the whitelist
 Domains that have implemented the guidance and passed an assessment appear on a whitelist in the [domain information tool](http://domaininformation.service.gov.uk/).  You don’t have to use the whitelist but if you currently have rules to filter outbound email, for example limiting certain kinds of data to *.gsi.gov.uk domains, you should add the domain whitelist to these rules.
+
 [Request access to the tool](https://emailassurance.zendesk.com/hc/en-us/requests/new?ticket_form_id=130185) to access the whitelist.  It is available via a URL to help you include it in any automated processes (for example updating rules on your email service).  Use Powershell in your Office 365 environment to create and manage rules using the whitelist as the source.
