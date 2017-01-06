@@ -61,7 +61,7 @@ This means this is a DMARC record (v=DMARC1) , take no action on my email (p=non
 
 To make it visible to others you need to name the record _dmarc.<your_domain>.  So when creating the TXT record it should look like this:
 
-![DNS TXT Record](https://github.com/cheyrou23/using-cloud/blob/master/images/Setting%20up%20government%20email%20services%20securely%20in%20G%20Suite.png)
+![DMARC DNS TXT Record](https://github.com/cheyrou23/using-cloud/blob/master/images/Setting%20up%20government%20email%20services%20securely%20in%20G%20Suite.png)
 
 Use an email address in the same domain as the one you are protecting.  If you use a different domain you need to include a TXT record in the DNS record of the receiving domain as well.
 
@@ -103,7 +103,7 @@ Google will automatically generate a DKIM key for you which you can then use to 
 
 The TXT record should look like this:
 
-![](Markdown export template_images/image_2.png)
+![DKIM DNS TXT Record](https://github.com/cheyrou23/using-cloud/blob/master/images/DKIM%20DNS%20Record%20example.png)
 
 If your outbound mail passes through a filtering service in addition to Google Apps you must ensure that service doesn't alter the message headers (such as adding a disclaimer) as this will invalidate the DKIM signature.  There is more guidance here:
 
@@ -130,7 +130,7 @@ It is likely you will need to add other domains and IP ranges to this basic reco
 
 A DNS record for SPF including another provider (in this case MailChimp) looks like this:
 
-![DNS TXT Record](https://github.com/cheyrou23/using-cloud/blob/master/images/Setting%20up%20government%20email%20services%20securely%20in%20G%20Suite.png)
+![SPF DNS TXT Record](https://github.com/cheyrou23/using-cloud/blob/master/images/SPF%20DNS%20Record%20example.png)
 
 ### Other email sending services
 Refer to the [generic implementation guide](https://www.gov.uk/guidance/set-up-government-email-services-securely#configure-other-email-sending-services) for help with other email sending services.
