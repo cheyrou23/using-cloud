@@ -33,7 +33,7 @@ G Suite [manages TLS certificates](https://support.google.com/a/answer/6180220?h
 
 This is an example compliance rule for TLS in G Suite: 
 
-![](Markdown export template_images/image_0.png)
+![screen shot of compliance setting](using-cloud/images/G Suite Secure Transport Compliance rule.png)
 
 #### Create an auto-reply
 
