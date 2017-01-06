@@ -52,10 +52,11 @@ You may need to add other domains and IP ranges to this record if your domain ha
 * disabling outbound email footers in your outbound email filtering service (if you have one)
 * create a [CNAME](https://en.wikipedia.org/wiki/CNAME_record) record in DNS for any domain aliases you have created (any email domain not using the default ‘onmicrosoft.com’ domain name)
 * enable DKIM in the Exchange Online admin panel
-DKIM outbound is configured through the Exchange administration DKIM section.  As Office 365 is a multi-tenanted service Microsoft will generate the DKIM certificate on your behalf.
-This means your DKIM DNS records refer people back to a Microsoft URL rather than providing a key for comparison.  [Read Microsoft’s blog on the subject](http://blogs.msdn.com/b/tzink/archive/2015/10/08/manually-hooking-up-dkim-signing-in-office-365.aspx).
-DKIM keys do not expire but should be rotated periodically.  Microsoft do this for you however so it is not necessary in Exchange Online.
-Similarly they manage the key size (which currently should be 1024-bit) so you don’t need to worry about that either.
+
+DKIM outbound is configured through the Exchange administration DKIM section.  As Office 365 is a multi-tenanted service Microsoft will generate the DKIM certificate on your behalf. This means your DKIM DNS records refer people back to a Microsoft URL rather than providing a key for comparison.  [Read Microsoft’s blog on the subject](http://blogs.msdn.com/b/tzink/archive/2015/10/08/manually-hooking-up-dkim-signing-in-office-365.aspx).
+
+DKIM keys do not expire but should be rotated periodically.  Microsoft do this for you however so it is not necessary in Exchange Online. Similarly they manage the key size (which currently should be 1024-bit) so you don’t need to worry about that either.
+
 If your outbound mail passes through a filtering service in addition to Exchange Online Protection you must ensure that service doesn’t alter the message headers (such as adding a disclaimer) as this will invalidate the DKIM signature. 
 
 ###Assessment
