@@ -61,6 +61,9 @@ This means this is a DMARC record (v=DMARC1) , take no action on my email (p=non
 
 To make it visible to others you need to name the record _dmarc.<your_domain>.  So when creating the TXT record it should look like this:
 
+>Host Name: _dmarc.domain.gov.uk
+>*Value*: v=DMARC1; p=none; rua=mailto:<email_address@domain.gov.uk>
+
 ![](Markdown export template_images/image_1.png)
 
 Use an email address in the same domain as the one you are protecting.  If you use a different domain you need to include a TXT record in the DNS record of the receiving domain as well.
