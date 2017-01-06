@@ -36,15 +36,17 @@ Ideally you will ingest the whitelist of domains and force TLS to those domains 
 To prevent email spoofing you must put technical and business policies in place to check inbound and outbound government email using Domain-based Message Authentication, Reporting and Conformance ([DMARC](https://www.gov.uk/government/publications/email-security-standards/domain-based-message-authentication-reporting-and-conformance-dmarc)).
 
 1. [Implement DMARC](https://www.gov.uk/guidance/set-up-government-email-services-securely#create-and-iterate-dmarc-records) by:
+
 * publishing a DMARC record starting at ‘p=none’ rising to ‘p=quarantine’ during implementation
 * following the [configuration guidance](https://www.gov.uk/guidance/set-up-government-email-services-securely#create-and-iterate-dmarc-records)
 * enabling inbound DMARC validation - this happens automatically on your Office 365 domain, there are no configuration options for the administrator
 
-2. [Implement Sender Policy] Framework(https://www.gov.uk/guidance/set-up-government-email-services-securely#create-and-iterate-spf-records) ([SPF](https://www.gov.uk/government/publications/email-security-standards/sender-policy-framework-spf)) by publishing public DNS records for SPF, including all systems that send email, using a minimum soft fail (~all) qualifier
+2. [Implement Sender Policy Framework](https://www.gov.uk/guidance/set-up-government-email-services-securely#create-and-iterate-spf-records) ([SPF](https://www.gov.uk/government/publications/email-security-standards/sender-policy-framework-spf)) by publishing public DNS records for SPF, including all systems that send email, using a minimum soft fail (~all) qualifier
 
 [Create an SPF record for Office 365](https://support.office.com/en-gb/article/External-Domain-Name-System-records-for-Office-365-c0531a6f-9e25-4f2d-ad0e-a70bfef09ac0?ui=en-US&rs=en-US&ad=US&fromAR=1) using both IPv4 and IPv6 addresses.  A basic record for a domain that uses Office 365 for email and Sharepoint should look like this:
 <pre><code>v=spf1 include:spf.protection.outlook.com include:sharepointonline.com ~all</code></pre>
 You may need to add other domains and IP ranges to this record if your domain has other email sources. The Exchange Online Protect best practice guidance [also advises on SPF](https://technet.microsoft.com/en-gb/library/jj723164(v=exchg.150).aspx).
+
 3. [Implement DKIM](https://www.gov.uk/guidance/set-up-government-email-services-securely#create-and-manage-dkim) by:
 
 * publishing DKIM selector and policy records 
