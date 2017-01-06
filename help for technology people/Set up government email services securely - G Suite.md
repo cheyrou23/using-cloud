@@ -1,6 +1,6 @@
 ##Secure email delivery build for G Suite
 
-This document explains how to implement the guidance on [securing government email](https://www.gov.uk/guidance/securing-government-email) in G Suite (formerly Google Apps).
+How to implement the guidance on [securing government email](https://www.gov.uk/guidance/securing-government-email) in G Suite (formerly Google Apps).
 
 The [domain information tool](http://domaininformation.service.gov.uk/) is an alpha service that gives you a dashboard of the domains in your organisation, a way to check whether an email sent between two domains should be secure, and a whitelist of domains that are setup securely.  Request access through the email assessment [ask a question form](https://emailassurance.zendesk.com/hc/en-us/requests/new?ticket_form_id=130185).
 
