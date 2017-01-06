@@ -1,18 +1,21 @@
 ##Set up government email services securely - Office 365
 How to implement the guidance on [securing government email](https://www.gov.uk/guidance/securing-government-email) in [Microsoft Office 365](https://products.office.com/en-gb/government/office-365-web-services-for-government) to provide encryption, anti-spoofing, and to pass an assessment. Doing these things will add your domain to a whitelist of secure domains which organisations can use to filter email.
+
 The [domain information tool](http://domaininformation.service.gov.uk/) is an alpha service that gives you a dashboard of the domains in your organisation, a way to check whether an email sent between two domains should be secure, and a whitelist of domains that are setup securely. Request access through the email assessment [ask a question form](https://emailassurance.zendesk.com/hc/en-us/requests/new?ticket_form_id=130185).
+
 For more detailed advice contact Microsoft or your IT service provider for help.
 ###Email service prerequisites
 You will need:
-access to make administrative changes in Office 365
-a public DNS record you can make changes to for each email domain
+* access to make administrative changes in Office 365
+* a public DNS record you can make changes to for each email domain
+
 You are not required to have additional perimeter email security services. The scanning and filtering service provided with Exchange Online should provide sufficient protection.
 ###Encryption
 Follow these steps to encrypt email services:
-Use [Transport Layer Security (TLS)](https://www.gov.uk/government/publications/email-security-standards/transport-layer-security-tls) version 1.2 or later and [preferred cryptographic profiles](https://www.ncsc.gov.uk/guidance/tls-external-facing-services) for secure email transport between UK government departments.
-this is enabled by default in Office 365
-Force a TLS connection from your sending domain. Do not rely on the recipient domain to do this. Create rules to use mandatory TLS when exchanging emails with government organisations, including *.gsi.gov.uk, *.gsx.gov.uk, *.gse.gov.uk, *.gcsx.gov.uk domains, domains included on the whitelist, and any other contacts that are known to support TLS such as commercial partners or suppliers.  To do this either:
-Create a new connector in Office 365 Admin Centre | Exchange Admin Centre | mailflow | connectors.  The connection should be from ‘Office 365’ to a ‘Partner Organisation’.  Give the connector a name and description. Use the connector ‘Only when email messages are sent to these domains’ and add each domain in turn (eg *.gsi.gov.uk). Chose to always use TLS for this connection, and require certificates issued by a Trusted CA. Add domains in groups to make it easy to administer - for example have a rule for the government domains listed above, and another to manage connections with partner organisations.  You need a CA signed certificate.
+* use [Transport Layer Security (TLS)](https://www.gov.uk/government/publications/email-security-standards/transport-layer-security-tls) version 1.2 or later and [preferred cryptographic profiles](https://www.ncsc.gov.uk/guidance/tls-external-facing-services) for secure email transport between UK government departments.
+** this is enabled by default in Office 365
+* force a TLS connection from your sending domain. Do not rely on the recipient domain to do this. Create rules to use mandatory TLS when exchanging emails with government organisations, including *.gsi.gov.uk, *.gsx.gov.uk, *.gse.gov.uk, *.gcsx.gov.uk domains, domains included on the whitelist, and any other contacts that are known to support TLS such as commercial partners or suppliers.  To do this either:
+** create a new connector in Office 365 Admin Centre | Exchange Admin Centre | mailflow | connectors.  The connection should be from ‘Office 365’ to a ‘Partner Organisation’.  Give the connector a name and description. Use the connector ‘Only when email messages are sent to these domains’ and add each domain in turn (eg *.gsi.gov.uk). Chose to always use TLS for this connection, and require certificates issued by a Trusted CA. Add domains in groups to make it easy to administer - for example have a rule for the government domains listed above, and another to manage connections with partner organisations.  You need a CA signed certificate.
 A mail flow rule can be created under Exchange Admin Centre | mail flow | rules. This can be applied to all mail or specified domains and addresses. This method requires a self-signed certificate.
 Ideally you will ingest the whitelist of domains and force TLS to those domains automatically, as the list will change over time.  You can do this using a powershell script or other mechanism to read the contents of the [public URL of the whitelist](https://domaininformation.service.gov.uk/white-list/export?separator=comma) and [create and maintain an email connector rule](https://technet.microsoft.com/en-gb/library/jj200761%28v=exchg.160%29.aspx?f=255&MSPPError=-2147217396).
 Do not create a connector to enforce TLS to *.gov.uk as a number of domains aren’t yet able to support it.
