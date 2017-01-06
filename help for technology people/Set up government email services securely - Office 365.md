@@ -37,9 +37,9 @@ To prevent email spoofing you must put technical and business policies in place 
 
 1. [Implement DMARC](https://www.gov.uk/guidance/set-up-government-email-services-securely#create-and-iterate-dmarc-records) by:
 
-* publishing a DMARC record starting at ‘p=none’ rising to ‘p=quarantine’ during implementation
-* following the [configuration guidance](https://www.gov.uk/guidance/set-up-government-email-services-securely#create-and-iterate-dmarc-records)
-* enabling inbound DMARC validation - this happens automatically on your Office 365 domain, there are no configuration options for the administrator
+ * publishing a DMARC record starting at ‘p=none’ rising to ‘p=quarantine’ during implementation
+ * following the [configuration guidance](https://www.gov.uk/guidance/set-up-government-email-services-securely#create-and-iterate-dmarc-records)
+ * enabling inbound DMARC validation - this happens automatically on your Office 365 domain, there are no configuration options for the administrator
 
 2. [Implement Sender Policy Framework](https://www.gov.uk/guidance/set-up-government-email-services-securely#create-and-iterate-spf-records) ([SPF](https://www.gov.uk/government/publications/email-security-standards/sender-policy-framework-spf)) by publishing public DNS records for SPF, including all systems that send email, using a minimum soft fail (~all) qualifier
 
