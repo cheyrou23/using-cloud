@@ -62,6 +62,7 @@ This means this is a DMARC record (v=DMARC1) , take no action on my email (p=non
 To make it visible to others you need to name the record _dmarc.<your_domain>.  So when creating the TXT record it should look like this:
 
 >Host Name: _dmarc.domain.gov.uk
+
 >*Value*: v=DMARC1; p=none; rua=mailto:<email_address@domain.gov.uk>
 
 ![](Markdown export template_images/image_1.png)
