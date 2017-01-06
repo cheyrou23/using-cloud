@@ -49,11 +49,11 @@ To prevent email spoofing you must put technical and business policies in place 
 
 3. [Implement DKIM](https://www.gov.uk/guidance/set-up-government-email-services-securely#create-and-manage-dkim) by:
 
-* publishing DKIM selector and policy records 
-* signing outgoing email in accordance with the DKIM standard
-* disabling outbound email footers in your outbound email filtering service (if you have one)
-* create a [CNAME](https://en.wikipedia.org/wiki/CNAME_record) record in DNS for any domain aliases you have created (any email domain not using the default ‘onmicrosoft.com’ domain name)
-* enable DKIM in the Exchange Online admin panel
+ * publishing DKIM selector and policy records 
+ * signing outgoing email in accordance with the DKIM standard
+ * disabling outbound email footers in your outbound email filtering service (if you have one)
+ * create a [CNAME](https://en.wikipedia.org/wiki/CNAME_record) record in DNS for any domain aliases you have created (any email domain not using the default ‘onmicrosoft.com’ domain name)
+ * enable DKIM in the Exchange Online admin panel
 
 DKIM outbound is configured through the Exchange administration DKIM section.  As Office 365 is a multi-tenanted service Microsoft will generate the DKIM certificate on your behalf. This means your DKIM DNS records refer people back to a Microsoft URL rather than providing a key for comparison.  [Read Microsoft’s blog on the subject](http://blogs.msdn.com/b/tzink/archive/2015/10/08/manually-hooking-up-dkim-signing-in-office-365.aspx).
 
