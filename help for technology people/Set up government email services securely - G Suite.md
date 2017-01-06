@@ -134,7 +134,7 @@ It is likely you will need to add other domains and IP ranges to this basic reco
 
 A DNS record for SPF including another provider (in this case MailChimp) looks like this:
 
-![](Markdown export template_images/image_3.png)
+![DNS TXT Record](https://github.com/cheyrou23/using-cloud/blob/master/images/Setting%20up%20government%20email%20services%20securely%20in%20G%20Suite.png)
 
 ### Other email sending services
 Refer to the [generic implementation guide](https://www.gov.uk/guidance/set-up-government-email-services-securely#configure-other-email-sending-services) for help with other email sending services.
