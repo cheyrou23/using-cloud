@@ -55,7 +55,7 @@ Check your DNS records to ensure you know what is there currently.  Records may 
 
 Create DMARC records for outbound email.  DMARC records are TXT records on your DNS.  A basic record for G Suite looks like this:
 
-<pre><code>v=DMARC1; p=none; rua=mailto:\<email_address@domain.gov.uk\></code></pre>
+<pre><code>v=DMARC1; p=none; rua=mailto:email_address@domain.gov.uk</code></pre>
 
 This means this is a DMARC record (v=DMARC1) , take no action on my email (p=none), and send reports to the email address shown.
 
