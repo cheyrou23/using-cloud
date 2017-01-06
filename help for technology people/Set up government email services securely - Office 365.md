@@ -43,9 +43,9 @@ To prevent email spoofing you must put technical and business policies in place 
 
 2. [Implement Sender Policy Framework](https://www.gov.uk/guidance/set-up-government-email-services-securely#create-and-iterate-spf-records) ([SPF](https://www.gov.uk/government/publications/email-security-standards/sender-policy-framework-spf)) by publishing public DNS records for SPF, including all systems that send email, using a minimum soft fail (~all) qualifier
 
-[Create an SPF record for Office 365](https://support.office.com/en-gb/article/External-Domain-Name-System-records-for-Office-365-c0531a6f-9e25-4f2d-ad0e-a70bfef09ac0?ui=en-US&rs=en-US&ad=US&fromAR=1) using both IPv4 and IPv6 addresses.  A basic record for a domain that uses Office 365 for email and Sharepoint should look like this:
-<pre><code>v=spf1 include:spf.protection.outlook.com include:sharepointonline.com ~all</code></pre>
-You may need to add other domains and IP ranges to this record if your domain has other email sources. The Exchange Online Protect best practice guidance [also advises on SPF](https://technet.microsoft.com/en-gb/library/jj723164(v=exchg.150).aspx).
+ [Create an SPF record for Office 365](https://support.office.com/en-gb/article/External-Domain-Name-System-records-for-Office-365-c0531a6f-9e25-4f2d-ad0e-a70bfef09ac0?ui=en-US&rs=en-US&ad=US&fromAR=1) using both IPv4 and IPv6 addresses.  A basic record for a domain that uses Office 365 for email and Sharepoint should look like this:
+ <pre><code>v=spf1 include:spf.protection.outlook.com include:sharepointonline.com ~all</code></pre>
+ You may need to add other domains and IP ranges to this record if your domain has other email sources. The Exchange Online Protect best practice guidance [also advises on SPF](https://technet.microsoft.com/en-gb/library/jj723164(v=exchg.150).aspx).
 
 3. [Implement DKIM](https://www.gov.uk/guidance/set-up-government-email-services-securely#create-and-manage-dkim) by:
 
