@@ -14,9 +14,9 @@ Use a [modern browser](https://whatbrowser.org) or a [Slack client app](https://
 
 Don't use Slack to store [sensitive, personal](https://ico.org.uk/for-organisations/guide-to-data-protection/key-definitions/), or other high value data like commercial or financial information that could cause harm if lost or exposed.
 
-Content can be disclosed publicly under the [Freedom of Information Act](https://ico.org.uk/for-organisations/guide-to-freedom-of-information/what-is-the-foi-act/). All content in paid accounts can be retrieved by administrators. Content in free accounts can be retrieved by administrators except private messages no longer visible.
+Content can be disclosed publicly under the [Freedom of Information Act](https://ico.org.uk/for-organisations/guide-to-freedom-of-information/what-is-the-foi-act/). All content in paid accounts can be retrieved by administrators. Content in free accounts can be retrieved by administrators except private messages that are no longer visible.
 
-Slack [may be asked to share data](https://slack.com/user-data-request-policy) by the US government. 
+Slack [could be asked to share data](https://slack.com/user-data-request-policy) by the US government. 
 
 Create public and private channels, and restrict your Slack account to your organisation if appropriate.
 
