@@ -4,7 +4,7 @@ Guidance for people using Slack in government. As a government user we expect a 
 
 ### Security
 
-Use a password made up of 3 random words, and setup [two-factor authentication](https://get.slack.help/hc/en-us/articles/204509068-Set-up-two-factor-authentication) for your account.
+Use a password made up of [3 random words](https://www.ncsc.gov.uk/blog-post/three-random-words-or-thinkrandom-0), and setup [two-factor authentication](https://get.slack.help/hc/en-us/articles/204509068-Set-up-two-factor-authentication) for your account.
 
 If you think someone may have accessed your account contact your administrator. If you lose a device that can access Slack contact your administrator and [sign yourself out of all sessions](https://www.bettercloud.com/monitor/the-academy/how-to-sign-out-of-slack-on-all-devices-at-once/).
 
