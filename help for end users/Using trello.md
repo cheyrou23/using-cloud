@@ -18,7 +18,7 @@ Content could be disclosed publicly under the [Freedom of Information Act](https
 
 Create [public and private boards](http://help.trello.com/article/789-changing-the-visibility-of-a-board-to-public-private-or-team) as appropriate.
 
-Card titles show up in Trello system logs, so could be seen by trello staff. Choose card titles carefully.
+Card titles show up in Trello system logs, so could be seen by Trello staff. Choose card titles carefully.
 
 Trello [self-certify](https://www.privacyshield.gov/participant?id=a2zt0000000TOWpAAO) on the [EU-US Privacy Shield](https://www.privacyshield.gov/welcome) but don't offer [EU Model Clauses](https://www.microsoft.com/en-us/TrustCenter/Compliance/EU-Model-Clauses), although this is common for this type of application.  [You own the data](https://trello.com/privacy) you put in Trello, and their technical security is similar to other popular public cloud services.
 
