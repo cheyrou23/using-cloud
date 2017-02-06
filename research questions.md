@@ -13,6 +13,7 @@
 * Were there any sentences or sections you had to read more than once to understand their meaning?
 * Does the order of the information in the document make sense to you?
 * Do you understand the terms used in the document?
+* Is the document a reasonable length for you or for its purpose?
 
 ##Content
 * What is the most important part of the document for you?
