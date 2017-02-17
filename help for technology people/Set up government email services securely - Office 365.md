@@ -31,6 +31,11 @@ Follow these steps to encrypt email services:
 
 6. Show you have outbound TLS available and are using Domain Keys Identified Mail ([DKIM](https://www.gov.uk/government/publications/email-security-standards/domainkeys-identified-mail-dkim)) signing email by either:
  *  Creating an email address (for example emailsecurity@yourdomain.gov.uk) for each of your email domains. Create a rule or filter for this address so that if it receives an email from emailsecurity@domaininformation.service.gov.uk it will reply automatically. The contents of the reply don’t matter, but it must come from the domain to which the original email was sent. [Tell us the address](https://emailassurance.zendesk.com/hc/en-us/requests/new?ticket_form_id=130185) you have set up so we know to check it.
+ *   One way to create the auto-reply in Office 365 is to:
+ *    Create a shared mailbox (for example secureemailreply@yourdomain.gov.uk)
+ *    Get the password for the shared mailbox if you done have it (you can reset it in the Office 365 admin portal)
+ *    Create a new profile in the Outlook desktop client using this shared mailbox - make sure you authenticate using the shared mailbox credentials
+ *    Create a new rule that 
  * Sending an email on a schedule (for example using a cron or Windows Scheduled Task) every day from each domain you are responsible for. The email must have the correct sender information to make sure it is processed correctly.  
 
 ###Anti-spoofing
