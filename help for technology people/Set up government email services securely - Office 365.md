@@ -29,14 +29,26 @@ Follow these steps to encrypt email services:
 
 5. Opportunistic TLS is enabled by default for domains not included in the mandatory TLS connectors created above. You can use self-signed certificates for opportunistic TLS.
 
-6. Show you have outbound TLS available and are using Domain Keys Identified Mail ([DKIM](https://www.gov.uk/government/publications/email-security-standards/domainkeys-identified-mail-dkim)) signing email by either:
- *  Creating an email address (for example emailsecurity@yourdomain.gov.uk) for each of your email domains. Create a rule or filter for this address so that if it receives an email from emailsecurity@domaininformation.service.gov.uk it will reply automatically. The contents of the reply don’t matter, but it must come from the domain to which the original email was sent. [Tell us the address](https://emailassurance.zendesk.com/hc/en-us/requests/new?ticket_form_id=130185) you have set up so we know to check it.
- *   One way to create the auto-reply in Office 365 is to:
- *    Create a shared mailbox (for example secureemailreply@yourdomain.gov.uk)
- *    Get the password for the shared mailbox if you done have it (you can reset it in the Office 365 admin portal)
- *    Create a new profile in the Outlook desktop client using this shared mailbox - make sure you authenticate using the shared mailbox credentials
- *    Create a new rule that 
- * Sending an email on a schedule (for example using a cron or Windows Scheduled Task) every day from each domain you are responsible for. The email must have the correct sender information to make sure it is processed correctly.  
+6. Show you have outbound TLS available and are using Domain Keys Identified Mail ([DKIM](https://www.gov.uk/government/publications/email-security-standards/domainkeys-identified-mail-dkim)) signing email by either creating an auto-reply or sending a scheduled email.
+
+To create an auto-reply:
+
+ * [Create a shared mailbox](https://technet.microsoft.com/en-gb/library/jj150570(v=exchg.160).aspx) for each of your email domains (for example secureemailreply@yourdomain.gov.uk)
+ * [Tell us the address](https://emailassurance.zendesk.com/hc/en-us/requests/new?ticket_form_id=130185) you are using for each domain
+ * Open Outlook using the profile of the shared mailbox. You cannot create the auto-reply when logged in as another user, even with full delegated access. If you don't know the password for the shared mailbox you can reset it in the Exchange Admin Portal
+ * Click on Rules - Create Rule - Advanced Options
+ * Apply these conditions:
+ 1. Check for email from emailsecurity@domaininformation.service.gov.uk and sent specifically to your email address
+ 2. Have the server reply using a specific message - put emailsecurity@domaininformation.service.gov.uk in the To: field with any subject and message body.
+ 3. Don't apply any exceptions
+ 4. Give the rule a name and turn it on
+
+
+Do not use the Out of office or Automatic replies option as they only respond to the first message.
+
+It may be possible to apply the same rule in the Outlook Web App under Settings (the cog) - Your app settings - Mail, but we haven't tested it. 
+
+To send an email on a schedule use Windows Task Scheduler (or cron on Unix-based machines) to send an separator email every day from each domain you are responsible for. The email must have the correct sender information to make sure it is processed correctly - you can't spoof this email from another source.
 
 ###Anti-spoofing
 To prevent email spoofing you must put technical and business policies in place to check inbound and outbound government email using Domain-based Message Authentication, Reporting and Conformance ([DMARC](https://www.gov.uk/government/publications/email-security-standards/domain-based-message-authentication-reporting-and-conformance-dmarc)).
