@@ -41,7 +41,7 @@ To ensure your email service is capable of sending and receiving email using TLS
 
 This will be used to check outbound TLS and DKIM signing from each domain.
 
-The do this in G Suite [create a Google Group](https://support.google.com/groups/answer/2464926?hl=en).  Set the group so you can post from outside the organisation.  Once created go to Manage > Settings > Email options > and check the auto-reply box for Enable auto-reply message for non-members outside the organization.  If required add some text to the box below.
+To do this in G Suite [create a Google Group](https://support.google.com/groups/answer/2464926?hl=en).  Set the group so you can post from outside the organisation.  Once created go to Manage > Settings > Email options > and check the auto-reply box for Enable auto-reply message for non-members outside the organization.  If required add some text to the box below.
 
 Note that this will currently only generate an auto-reply for the primary domain.
 
