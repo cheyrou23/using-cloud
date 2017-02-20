@@ -35,7 +35,7 @@ To create an auto-reply:
 
  * [create a shared mailbox](https://technet.microsoft.com/en-gb/library/jj150570(v=exchg.160).aspx) for each of your email domains (for example secureemailreply@yourdomain.gov.uk)
  * [tell us the address](https://emailassurance.zendesk.com/hc/en-us/requests/new?ticket_form_id=130185) you are using for each domain
- * open Outlook using the profile of the shared mailbox. You cannot create the auto-reply when logged in as another user, even with full delegated access. If you don't know the password for the shared mailbox you can reset it in the Exchange Admin Portal
+ * open Outlook using the profile of the shared mailbox. You cannot create the auto-reply when logged in as another user, even with full delegated access. You also need to authenticate using the shared mailbox credentials.  It'll let you log in with an admin user but you can't create the rule under that authentication. If you don't know the password for the shared mailbox you can reset it in the Exchange Admin Portal
  * click on Rules - Create Rule - Advanced Options
  * apply these conditions:
  1. check for email from emailsecurity@domaininformation.service.gov.uk and sent specifically to your email address
