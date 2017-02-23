@@ -1,63 +1,77 @@
-## Using Slack
+## Using Slack in Government
 
-Guidance for people using Slack in government. As a government user we expect a good degree of sophistication when working with data. We have a shared responsibility to keep the right things safe.
+As a government user we expect a good degree of sophistication when working with data. We have a shared responsibility to keep the right things safe. This guidance will help you use Slack to communicate securely with colleagues.
 
-### Security
+### Securing your account
+Secure your Slack account by using:
 
-Use a password made up of [3 random words](https://www.ncsc.gov.uk/blog-post/three-random-words-or-thinkrandom-0), and setup [two-factor authentication](https://get.slack.help/hc/en-us/articles/204509068-Set-up-two-factor-authentication) for your account.
+* a password made up of [3 random words](https://www.ncsc.gov.uk/blog-post/three-random-words-or-thinkrandom-0)
+* [two-factor authentication](https://get.slack.help/hc/en-us/articles/204509068-Set-up-two-factor-authentication)
+* a secure (HTTPS) connection and a [modern browser](https://whatbrowser.org/) or a [Slack client app](https://slack.com/downloads/)
 
-If you think someone may have accessed your account contact your administrator. If you lose a device that can access Slack contact your administrator and [sign yourself out of all sessions](https://www.bettercloud.com/monitor/the-academy/how-to-sign-out-of-slack-on-all-devices-at-once/).
+Tell your Slack administrator if you :
 
-Use a [modern browser](https://whatbrowser.org) or a [Slack client app](https://slack.com/downloads/) to make sure you are using a secure (HTTPS) connection.
+* think someone may have accessed your account
+* lose a device that can access your Slack account (you should also [sign yourself out of all channel sessions](https://www.bettercloud.com/monitor/the-academy/how-to-sign-out-of-slack-on-all-devices-at-once/))
 
-### Privacy
+### Protecting your data
 
-Don't use Slack to store [sensitive, personal](https://ico.org.uk/for-organisations/guide-to-data-protection/key-definitions/), or other high value data like commercial or financial information that could cause harm if lost or exposed.
+To protect your data when using Slack, make sure you:
 
-Content could be disclosed publicly under the [Freedom of Information Act](https://ico.org.uk/for-organisations/guide-to-freedom-of-information/what-is-the-foi-act/) as could any information held by government. All content in paid accounts can be retrieved by administrators. Content in free accounts can be retrieved by administrators except private messages that are no longer visible.
+* don't use Slack to store [sensitive, personal](https://ico.org.uk/for-organisations/guide-to-data-protection/key-definitions/), or other high value data (like commercial or financial information) that could cause harm or embarrassment if lost or exposed
+* create and use [private channels or direct messages](https://get.slack.help/hc/en-us/articles/201925108-About-channels-and-direct-messages) when you need to control access
+* restrict your Slack account to your organisation if appropriate
 
-Slack [could be asked to share data](https://slack.com/user-data-request-policy) by the US government. 
+When using Slack, you should also be aware that content, including older messages you can no longer see, can be:
 
-Create public and private channels, and restrict your Slack account to your organisation if appropriate.
+* disclosed publicly under the [Freedom of Information Act](https://ico.org.uk/for-organisations/guide-to-freedom-of-information/what-is-the-foi-act/)
+* [exported and viewed by administrators](https://get.slack.help/hc/en-us/articles/204897248-Guide-to-Slack-data-exports) in paid Slack accounts, including direct messages and private channels
+* exported and viewed by administrators in free Slack accounts, except for direct messages and private channels
+* [subject to legal requests to shared data](https://slack.com/user-data-request-policy) by courts, government agencies, or parties involved in litigation in the US
 
-[Slack self-certify](https://govuk.slack.com/privacy-shield-notice) on the [EU-US Privacy Shield](https://www.privacyshield.gov/welcome) but don't offer [EU Model Clauses](https://www.microsoft.com/en-us/TrustCenter/Compliance/EU-Model-Clauses), although this is common for this type of application.  [You own the data](https://slack.com/privacy-policy) you put in Slack, and their technical security is similar to other popular public cloud services.
+Slack have signed up to the [EU-US Privacy Shield](https://govuk.slack.com/privacy-shield-notice) which requires them to follow European data protection requirements for personal data for their European customers. [You own the data](https://slack.com/privacy-policy) you put in Slack, and their technical security is similar to other popular public cloud services.
 
 ### Managing information
 
-Record or summarise important work information in a permanent record at regular intervals or at the end of a piece of work.
+You must record or summarise important work in a permanent record at regular intervals or at the end of a piece of work. Make sure you don’t lose content by:
 
-Use your document storage or email service to capture important discussions or decisions, and name the data so it can be found later.
+* creating a permanent record of shared information at regular intervals or at the end of a piece of work
+* using your document storage or email service to capture important discussions or decisions (name the data so it can be found later)
 
-To export data from Slack copy and paste the text and note the date, or take a screenshot.  Alternatively ask your administrator for an export.
+You can export data from Slack by:
 
-### Using Slack
+* copying and pasting the text (while noting the date)
+* taking a screenshot
+* asking your administrator for an export
 
-Set your username to first_last, for example alex_black.  If the account is used by other organisations set your username to first_last_organisation, for example alex_black_moj.
+### Getting started
 
-Use a recognisable profile photo and put your role in 'What I do'.
+Ensure your account looks official and similar to other government Slack accounts by:
 
-Don't fill in your phone number or Skype account if you don't want to.
+* setting your username to first_last_organisation (for example alex_black_moj)
+* use a recognisable profile photo
+* add your role to the 'What I do' section
 
-Use the [Slack help centre](https://get.slack.help/hc/en-us) for guides and videos on using Slack.
+You don't have to share your phone number or Skype account if you don't want to.
 
-Only use the #announcement channel things which are urgent, important and affect everyone. Avoid using @channel; @here and @everyone in #announcements.
+You can alert others to content you have shared on Slack by typing @channel, @here, or @everyone. This can trigger notifications on their computer or phone. You can read the Slack guidance on ‘[Making an announcement](https://get.slack.help/hc/en-us/articles/202009646-Make-an-announcement)’ to understand how these alerts working the meaning of these alerts.
 
-Use @here over @channel or @everyone unless you need to.
+You should avoid disruption to others when using these alerts by:
 
-Find out who your team owners or administrators are in your account settings under Team Settings.
+* only using the #announcement channel for things that are urgent, important and affect a lot of people
+* avoiding use of @channel; @here and @everyone in #announcements
+* using @here over @channel or @everyone unless you need to
 
-### Support
+###Getting help
 
-Your internal IT team may not support Slack unless you have agreed that with them.  There is a [support site](https://get.slack.help) and a [status page](https://status.slack.com/), but no service level agreement unless you have a [paid account](https://slack.com/pricing).
+For help using Slack, you can:
 
-### Administrator configuration
+* access the [Slack help centre](https://get.slack.help/hc/en-us) for guides and videos
+* find your team owners or administrators (by looking in your account settings under Team Settings)
 
-Administrators should connect to an existing identity and access management service (if you are using a paid account).  If this is not available regularly review and remove people who have left or no longer need access.
+Slack also have a live [status page](https://status.slack.com/).
 
-Require two-factor authentication on paid accounts, either [through Slack](https://get.slack.help/hc/en-us/articles/212221668-Require-two-factor-authentication-for-your-team) or through your own identity and access management service.
+You may also access further support from:
 
-Administrators should also manage roles and managed access appropriately, limiting the number of people with administrator access.  Separate administrator accounts from the general user accounts of administrators.
-
-Slack uses [plugins](https://slack.com/apps) and an [API](https://api.slack.com/tokens) to share data with other services. [Disable user access to add plugins and connections](https://get.slack.help/hc/en-us/articles/222386767-Managing-apps-for-your-team) and evaluate new app requests before approving.
-
-If your account appears to have been breached [log all users out at once](https://get.slack.help/hc/en-us/articles/204510068-Reset-all-passwords-for-your-team).  They will need to reset their password to get back in.
+* a service level agreement if you have a [paid Slack account](https://slack.com/pricing)
+* your internal IT team (if you have agreed a support arrangement with them)
