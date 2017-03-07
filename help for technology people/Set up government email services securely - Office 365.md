@@ -42,7 +42,7 @@ To create an auto-reply:
 
  * [create a shared mailbox](https://technet.microsoft.com/en-gb/library/jj150570(v=exchg.160).aspx) for each of your email domains (for example secureemailreply@yourdomain.gov.uk)
  * [tell us the address](https://emailassurance.zendesk.com/hc/en-us/requests/new?ticket_form_id=130185) you are using for each domain
- * open Outlook using the profile of the shared mailbox. You cannot create the auto-reply when logged in as another user, even with full delegated access. You also need to authenticate using the shared mailbox credentials.  It'll let you log in with an admin user but you can't create the rule under that authentication. If you don't know the password for the shared mailbox you can reset it in the Exchange Admin Portal
+ * open Outlook using the profile of the shared mailbox. You cannot create the auto-reply when logged in as another user, even with full delegated access. You also need to authenticate using the shared mailbox credentials.  It'll let you log in with an admin user but you can't create the rule under that authentication. If you don't know the password for the shared mailbox you can reset it in the Exchange Admin Portal - it may take an hour or so after creation for the address to appear in the user list.
  * click on Rules - Create Rule - Advanced Options
  * apply these conditions:
  1. check for email from emailsecurity@domaininformation.service.gov.uk and sent specifically to your email address
@@ -53,7 +53,7 @@ To create an auto-reply:
 
 Do not use the Out of office or Automatic replies option as they only respond to the first message.
 
-It may be possible to apply the same rule in the Outlook Web App under Settings (the cog) - Your app settings - Mail, but we haven't tested it. 
+>After resetting the password you can complete the setup using the Outlook Web app. [Tell us the email address](https://emailassurance.zendesk.com/hc/en-us/requests/new?ticket_form_id=130185), then when you receive an email from us you can use it to create a rule change the settings accordingly.
 
 To send an email on a schedule use Windows Task Scheduler (or cron on Unix-based machines) to send an separator email every day from each domain you are responsible for. The email must have the correct sender information to make sure it is processed correctly - you can't spoof this email from another source.
 
