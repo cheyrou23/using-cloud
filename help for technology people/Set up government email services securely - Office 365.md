@@ -53,7 +53,7 @@ To create an auto-reply:
 
 Do not use the Out of office or Automatic replies option as they only respond to the first message.
 
->After resetting the password you can complete the setup using the Outlook Web app. [Tell us the email address](https://emailassurance.zendesk.com/hc/en-us/requests/new?ticket_form_id=130185), then when you receive an email from us you can use it to create a rule change the settings accordingly.
+>After resetting the password you can complete the setup using the Outlook Web app. [Tell us the email address](https://emailassurance.zendesk.com/hc/en-us/requests/new?ticket_form_id=130185), then use the email we send to create a rule and change the settings accordingly.
 
 To send an email on a schedule use Windows Task Scheduler (or cron on Unix-based machines) to send an separator email every day from each domain you are responsible for. The email must have the correct sender information to make sure it is processed correctly - you can't spoof this email from another source.
 
