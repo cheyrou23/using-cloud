@@ -1,16 +1,16 @@
-##Set up government email services securely - Office 365
+## Set up government email services securely - Office 365
 How to implement the guidance on [securing government email](https://www.gov.uk/guidance/securing-government-email) in [Microsoft Office 365](https://products.office.com/en-gb/government/office-365-web-services-for-government) to provide encryption, anti-spoofing, and to pass an assessment. Doing these things will add your domain to a whitelist of secure domains which organisations can use to filter email.
 
 The [domain information tool](http://domaininformation.service.gov.uk/) is an alpha service that gives you a dashboard of the domains in your organisation, a way to check whether an email sent between two domains should be secure, and a whitelist of domains that are setup securely. Request access through the email assessment [ask a question form](https://emailassurance.zendesk.com/hc/en-us/requests/new?ticket_form_id=130185).
 
 For more detailed advice contact Microsoft or your IT service provider for help.
-###Email service prerequisites
+### Email service prerequisites
 You will need:
 * access to make administrative changes in Office 365
 * a public DNS record you can make changes to for each email domain
 
 You are not required to have additional perimeter email security services. The scanning and filtering service provided with Exchange Online should provide sufficient protection.
-###Encryption
+### Encryption
 Follow these steps to encrypt email services:
 
 1. use [Transport Layer Security (TLS)](https://www.gov.uk/government/publications/email-security-standards/transport-layer-security-tls) version 1.2 or later and [preferred cryptographic profiles](https://www.ncsc.gov.uk/guidance/tls-external-facing-services) for secure email transport between UK government departments.
@@ -57,7 +57,7 @@ Do not use the Out of office or Automatic replies option as they only respond to
 
 To send an email on a schedule use Windows Task Scheduler (or cron on Unix-based machines) to send an separator email every day from each domain you are responsible for. The email must have the correct sender information to make sure it is processed correctly - you can't spoof this email from another source.
 
-###Anti-spoofing
+### Anti-spoofing
 To prevent email spoofing you must put technical and business policies in place to check inbound and outbound government email using Domain-based Message Authentication, Reporting and Conformance ([DMARC](https://www.gov.uk/government/publications/email-security-standards/domain-based-message-authentication-reporting-and-conformance-dmarc)).
 
 1. [Implement DMARC](https://www.gov.uk/guidance/set-up-government-email-services-securely#create-and-iterate-dmarc-records) by:
@@ -86,14 +86,14 @@ DKIM keys do not expire but should be rotated periodically.  Microsoft do this f
 
 If your outbound mail passes through a filtering service in addition to Exchange Online Protection you must ensure that service doesn’t alter the message headers (such as adding a disclaimer) as this will invalidate the DKIM signature. 
 
-###Assessment
+### Assessment
 The domain information tool will check you have encryption and anti-spoofing configured.  You will also need to pass a cloud-based email service assessment to ensure your email service is configured and run in a secure way.
 
 There is no requirement to route Office 365 email via the PSN to pass this assessment, even for gsi.gov.uk or gcsx.gov.uk email addresses. If you are moving a domain traditionally associated with the PSN use a simpler gov.uk domain name as you primary domain name and the legacy domain name as an alias. Pass the assessment with the primary domain name before moving the legacy alias across.
 
 [Create a new ticket](https://emailassurance.zendesk.com/hc/en-us/requests/new?ticket_form_id=134149) to request an email assessment and read the guidance in the form on the assessment process.
 
-###Use the whitelist
+### Use the whitelist
 Domains that have implemented the guidance and passed an assessment appear on a whitelist in the [domain information tool](http://domaininformation.service.gov.uk/).  You don’t have to use the whitelist but if you currently have rules to filter outbound email, for example limiting certain kinds of data to *.gsi.gov.uk domains, you should add the domain whitelist to these rules.
 
 [Request access to the tool](https://emailassurance.zendesk.com/hc/en-us/requests/new?ticket_form_id=130185) to access the whitelist.  It is available via a URL to help you include it in any automated processes (for example updating rules on your email service).  Use Powershell in your Office 365 environment to create and manage rules using the whitelist as the source.
