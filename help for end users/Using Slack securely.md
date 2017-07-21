@@ -83,7 +83,7 @@ You should avoid disruption to others when using these alerts by:
 * avoiding use of @channel; @here and @everyone in #announcements
 * using @here over @channel or @everyone unless you need to
 
-###Getting help
+### Getting help
 
 For help using Slack, you can:
 
