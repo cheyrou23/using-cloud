@@ -1,26 +1,37 @@
 ## Using Trello
 
-Guidance for people using Trello in government. As a government user we expect a good degree of sophistication when working with data. We have a shared responsibility to keep the right things safe.
+Government staff are responsible for checking the applications they use are secure. This guidance will help you use Trello to work securely with colleagues.
 
-### Security
+Trello is a cloud application for managing projects and sharing tasks.
 
-Use a password made up of 3 random words, and setup [two-factor authentication](http://help.trello.com/article/993-enabling-two-factor-authentication-for-your-trello-account) for your account.
+### Secure your account
 
-If you think someone may have accessed your account [change your password immediately](https://trello.com/forgot?user=) and contact your administrator if you have a paid account. If you lose a device that can access Trello contact your administrator and [sign yourself out of other sessions](http://help.trello.com/article/766-logging-out-of-trello).
+Secure your Trello account by using:
 
-Use a [modern browser](https://whatbrowser.org) or a [Trello client app](https://trello.com/platforms) to make sure you are using a secure (HTTPS) connection.
+* a password made up of 3 random words
+* [two-factor authentication](http://help.trello.com/article/993-enabling-two-factor-authentication-for-your-trello-account)
+* a secure HTTPS connection (ensure this by using a [modern browser](https://whatbrowser.org/) or a [Trello client app](https://trello.com/platforms)
 
-### Privacy
+Contact your Trello administrator if you:
 
-Don't store [sensitive, personal](https://ico.org.uk/for-organisations/guide-to-data-protection/key-definitions/), or other high value data like commercial or financial information that could cause harm if lost or exposed.
+* think someone may have accessed your account (you should also [change your password immediately](https://trello.com/forgot?user=)
+* lose a device that can access Trello (you should also [sign yourself out of other sessions](http://help.trello.com/article/766-logging-out-of-trello)
 
-Content could be disclosed publicly under the [Freedom of Information Act](https://ico.org.uk/for-organisations/guide-to-freedom-of-information/what-is-the-foi-act/), as could any information held by government. All content in Trello accounts can be retrieved by the board owner or a central administrator (for paid accounts).
+### Protect your data
 
-Create [public and private boards](http://help.trello.com/article/789-changing-the-visibility-of-a-board-to-public-private-or-team) as appropriate.
+To protect your data when using Trello, make sure you:
 
-Card titles show up in Trello system logs, so could be seen by Trello staff. Choose card titles carefully.
+* don't use Trello to store [sensitive, personal](https://ico.org.uk/for-organisations/guide-to-data-protection/key-definitions/), or other high value data (like commercial or financial information) that could cause harm if lost or exposed
+* create [public and private boards](http://help.trello.com/article/789-changing-the-visibility-of-a-board-to-public-private-or-team) as appropriate
+* don’t connect Trello to [other services](https://trello.com/integrations)
 
-Trello [self-certify](https://www.privacyshield.gov/participant?id=a2zt0000000TOWpAAO) on the [EU-US Privacy Shield](https://www.privacyshield.gov/welcome) but don't offer [EU Model Clauses](https://www.microsoft.com/en-us/TrustCenter/Compliance/EU-Model-Clauses), although this is common for this type of application.  [You own the data](https://trello.com/privacy) you put in Trello, and their technical security is similar to other popular public cloud services.
+When using Trello, you should also be aware that content can be:
+
+* disclosed publicly under the [Freedom of Information Act](https://ico.org.uk/for-organisations/guide-to-freedom-of-information/what-is-the-foi-act/), as could any information held by government
+* retrieved by board owners or central administrators in paid Trello accounts
+* seen by Trello staff (card titles show up in Trello system logs, so choose them carefully)
+
+Trello [signed-up](https://www.privacyshield.gov/participant?id=a2zt0000000TOWpAAO) to the [EU-US Privacy Shield](https://www.privacyshield.gov/welcome) which requires them to follow European data protection requirements for European customers. [You own the data](https://trello.com/privacy) you put in Trello, and their technical security is similar to other popular public cloud services.
 
 ### Using trello
 
