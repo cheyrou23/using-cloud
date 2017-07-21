@@ -1,6 +1,6 @@
 ## Using Slack in Government
 
-As a government user we expect a good degree of sophistication when working with data. We have a shared responsibility to keep the right things safe. This guidance will help you use Slack to communicate securely with colleagues.
+Government staff are responsible for checking the applications they use are secure. This guidance will help you use Slack to communicate securely with colleagues.
 
 ### Securing your account
 Secure your Slack account by using:
@@ -29,11 +29,24 @@ When using Slack, you should also be aware that content, including older message
 * exported and viewed by administrators in free Slack accounts, except for direct messages and private channels
 * [subject to legal requests to shared data](https://slack.com/user-data-request-policy) by courts, government agencies, or parties involved in litigation in the US
 
+As any Slack content can be subject to the Freedom of Information Act you should:
+
+* communicate as you would in internal email
+* choose good channel names
+
+Using Slack for social or personal use must:
+
+* not create exposure to legal liability or embarrassment
+* not affect your performance or disrupt others
+* follow the [Civil Service Code](https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code)
+
 Slack have signed up to the [EU-US Privacy Shield](https://govuk.slack.com/privacy-shield-notice) which requires them to follow European data protection requirements for personal data for their European customers. [You own the data](https://slack.com/privacy-policy) you put in Slack, and their technical security is similar to other popular public cloud services.
+
+Your Slack team name is visible to anyone that knows your team's Slack URL, even if they're unable to sign in.
 
 ### Managing information
 
-You must record or summarise important work in a permanent record at regular intervals or at the end of a piece of work. Make sure you don’t lose content by:
+Sometimes you may need to refer back to information shared in Slack channels. As a civil servant you must [keep accurate records](https://www.gov.uk/government/publications/civil-service-code/the-civil-service-code) of work. Make sure you don’t lose content by:
 
 * creating a permanent record of shared information at regular intervals or at the end of a piece of work
 * using your document storage or email service to capture important discussions or decisions (name the data so it can be found later)
@@ -43,6 +56,14 @@ You can export data from Slack by:
 * copying and pasting the text (while noting the date)
 * taking a screenshot
 * asking your administrator for an export
+
+Limit channels to:
+
+* work and discussion  
+* networks and clubs
+* noticeboards
+
+Name channels clearly with the team, community, product, network, club, or group so it is obvious what is being discussed. Avoid creating channels without an obvious work or community purpose.
 
 ### Getting started
 
