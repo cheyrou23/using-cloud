@@ -1,24 +1,24 @@
-**Using Smartsheet**
+## Using Smartsheet
 
 As a government user you share the responsibility to keep information safe and to work securely. This guidance will help you use Smartsheet securely.
 
 Smartsheet is a web-based project and task management tool that lets you assign work to teams or people and track progress in real time.
 
-**Securing your account**
+### Securing your account
 
 Secure your Smartsheet account by using:
 
 - a password made up of [3 random words](https://www.ncsc.gov.uk/blog-post/three-random-words-or-thinkrandom-0)
 - a secure (HTTPS) connection (ensure this by using a [modern browser](https://whatbrowser.org) or a [Smartsheet mobile app](https://www.smartsheet.com/product-tour/mobile))
 
-If you use Office 365 or G Suite, or another service that help you to login to applications, ask your IT team if they can connect it to Smartsheet. Use two factor authentication in that service if available.
+If you use Office 365 or G Suite, or another service that helps you to login to applications, ask your IT team if they can connect it to Smartsheet. Use two factor authentication in that service if available.
 
 Contact your Smartsheet administrator if you:
 
 - think someone may have accessed your account
 - lose a device that can access your Smartsheet account (you should also [change your password](https://help.smartsheet.com/articles/1987699-changing-resetting-your-password))
 
-**Protecting your data**
+### Protecting your data
 
 To protect your data when using Smartsheet, make sure you:
 
@@ -33,11 +33,11 @@ When using Smartsheet, you should also be aware that all content can be:
 
 Smartsheet have signed up to the [EU-US Privacy Shield](https://www.smartsheet.com/privacy) which means they say they follow European data protection requirements for European customers. [You own the data](https://www.smartsheet.com/user-agreement) you put in Smartsheet, and their technical security is similar to other popular public cloud services.
 
-**Managing your information**
+### Managing your information
 
 Sometimes you need to refer back to information in Smartsheet. As a civil servant, you also need to keep save a permanent record at regular intervals or at the end of a piece of work.
 
-Make sure you don&#39;t lose content by:
+Make sure you don't lose content by:
 
 - creating a permanent record of shared information at regular intervals or at the end of a piece of work
 - exporting data to your document storage or email service to capture important discussions or decisions (name the data so it can be found later)
@@ -49,7 +49,7 @@ You can export data from Smartsheet by:
 - asking your administrator to [request a backup](https://help.smartsheet.com/articles/506499-backing-up-your-data#backup)
 - [exporting individual sheets](https://help.smartsheet.com/articles/770623-exporting-sheets-reports-from-smartsheet) manually as Microsoft Excel or Project files, PDFs, or Google Sheets
 
-**Getting started**
+### Getting started
 
 Ensure your account looks official and similar to other government Smartsheet accounts by:
 
@@ -60,9 +60,7 @@ Smartsheet uses Sheets (collaborative [Gantt charts](https://en.wikipedia.org/wi
 
 Think about how information might look in public if it were disclosed, particularly project names, or more casual interactions like comments in sheets.
 
-
-
-**Getting help**
+### Getting help
 
 For help using Smartsheet, you can:
 
