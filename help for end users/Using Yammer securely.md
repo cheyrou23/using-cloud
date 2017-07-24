@@ -1,10 +1,10 @@
 ## Using Yammer securely
 
-As a government user we expect a good degree of sophistication when working with data. We have a shared responsibility to keep the right things safe. This guidance will help you use Yammer to communicate securely with colleagues.
+Government staff are responsible for checking the applications they use are secure. This guidance will help you use Yammer to communicate securely with colleagues.
 
 Yammer is a cloud application for social networking within an organisation, or with partners, customers, or vendors. You can use it to post updates and send messages, either directly or in a group. You can also use it to share documents, join groups, and search history.
 
-Yammer is available as a stand alone service but is more often used as part of Microsoft&#39;s Office 365 suite.
+Yammer is available as a stand alone service but is more often used as part of Microsoft's Office 365 suite.
 
 ### Securing your account
 
