@@ -8,7 +8,7 @@ Lucidpress is a web-based drag and drop publishing and page layout application f
 
 Lucidchart is a web-based diagramming tool similar to Microsoft Visio.
 
-###Security
+### Security
 
 Use a password made up of 3 random words, and ask your IT team to [setup single sign on](https://lucidchart.zendesk.com/hc/en-us/articles/207300096-Lucidchart-and-SAML). Lucid do not yet support two factor authentication.
 
