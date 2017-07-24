@@ -54,22 +54,26 @@ You can export data from Trello by:
 * taking a screenshot
 * asking your administrator for [an export](http://help.trello.com/article/747-exporting-data-from-trello-1)
 
-### Using trello
+### Getting started 
+Ensure your account looks official and similar to other government Trello accounts by:
 
-You can sign up for and use Trello for free or ask your IT team for a corporate account.
+* setting your username to first_last_organisation (for example alex_black_moj)
+* use a recognisable profile photo
+* add your role to the Bio section
 
-Set your username to first_last, for example alex_black.  If you are going to work on boards used by other organisations set your username to first_last_organisation, for example alex_black_moj.
+Your Trello profile [is public](https://trello.com/nick_woodcraft_gds), but doesn’t show up in web searches or include activity, comments, cards, organisation, or other details.
 
-Use a recognisable profile photo and put your role in 'What I do' so other people know who they are sharing information with.
+You can alert others to content you have shared on Trello using @mention in a card comment (for example @alex_black_moj). Take the [Trello tour](https://trello.com/tour) to find out more.
 
-Use the [tour](https://trello.com/tour), [getting started guide](https://trello.com/guide) and [help](http://help.trello.com/) for guidance on using Trello.
+### Getting help
+For help using Trello, you can use their:
+ 
+* [getting started guide](https://trello.com/guide)
+* [help pages](http://help.trello.com/)
 
-The Trello profile is public and that anyone with internet access can view it (e.g. [https://trello.com/nickwoodcraft](https://trello.com/nickwoodcraft)).  This does not expose activity, comments, cards, organisation, or other details and will not show up in web searches.
-
-Sign up to Trello using your corporate email address to ensure separation between personal and work boards. [Delete your trello account](http://help.trello.com/article/749-deleting-your-trello-account) if you leave the organisation.
-
-Talk to your IT or information security team before connecting Trello to another service.  For example you can connect trello to Google Drive, but this can give trello excessive access to Google Drive. If you have a paid account this option can be managed by your administrator.
-
-### Support
-
-Your internal IT team may not support Trello unless you have agreed that with them.  There is a [support site](http://help.trello.com/) and a [status page](http://www.trellostatus.com/), but no service level agreement unless you have a [paid account](https://trello.com/pricing).
+Trello offer support through a:
+ 
+* [support page](https://trello.com/contact)  
+* [status page](http://www.trellostatus.com/)
+ 
+You may also get help from your internal IT team if they have agreed to do it.
