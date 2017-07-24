@@ -33,6 +33,27 @@ When using Trello, you should also be aware that content can be:
 
 Trello [signed-up](https://www.privacyshield.gov/participant?id=a2zt0000000TOWpAAO) to the [EU-US Privacy Shield](https://www.privacyshield.gov/welcome) which requires them to follow European data protection requirements for European customers. [You own the data](https://trello.com/privacy) you put in Trello, and their technical security is similar to other popular public cloud services.
 
+### Managing information
+
+You must record or summarise important work in a permanent record at regular intervals or at the end of a piece of work.
+
+Make sure you don’t lose content by:
+
+* creating a permanent record of shared information at regular intervals or at the end of a piece of work
+* using your document storage or email service to capture important discussions or decisions (name the data so it can be found later)
+* including a link to the Trello board in related documents
+* share boards that may be of historical interest with your information management team
+* delete old cards of no historical value to reduce the volume of data that needs to be managed - [archived first then delete](http://help.trello.com/customer/portal/articles/935742-archiving-and-deleting-cards)
+* [close boards](http://help.trello.com/article/801-deleting-a-board) when they are no longer needed
+
+You can export data from Trello by:
+
+* copying and pasting the text (while noting the date)
+* [print](http://help.trello.com/article/812-printing-in-trello) to a PDF
+* [export to CSV](http://help.trello.com/article/747-exporting-data-from-trello-1) if you have a Business Class (paid for) account
+* taking a screenshot
+* asking your administrator for [an export](http://help.trello.com/article/747-exporting-data-from-trello-1)
+
 ### Using trello
 
 You can sign up for and use Trello for free or ask your IT team for a corporate account.
@@ -48,18 +69,6 @@ The Trello profile is public and that anyone with internet access can view it (e
 Sign up to Trello using your corporate email address to ensure separation between personal and work boards. [Delete your trello account](http://help.trello.com/article/749-deleting-your-trello-account) if you leave the organisation.
 
 Talk to your IT or information security team before connecting Trello to another service.  For example you can connect trello to Google Drive, but this can give trello excessive access to Google Drive. If you have a paid account this option can be managed by your administrator.
-
-### Managing information
-
-Record or summarise important work information in a permanent record at regular intervals or at the end of a piece of work.
-
-Data in Trello should be exported in csv format for keeping as a permanent record or for importing into spreadsheets or other database applications.  Name the data so it can be found later.
-
-Users should include a link to the Trello board(s) of every project in anpther place, for example a document management system, to ensure the information stored there can be found in the future.  Boards that may be of historical interest should be shared directly with your knowledge management team.
-
-Delete completed cards of no historical value to reduce the volume of data that needs to be managed.  To delete a card it should be [archived then deleted](http://help.trello.com/customer/portal/articles/935742-archiving-and-deleting-cards)
-
-Close completed boards on the understanding that closed boards untouched for 12 months may be deleted to reduce the volume of data that needs to be managed.
 
 ### Support
 
