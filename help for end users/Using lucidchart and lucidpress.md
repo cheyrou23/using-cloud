@@ -1,20 +1,23 @@
 ## Using Lucidchart and Lucidpress
 
-Guidance for people using Lucidchart and Lucidpress in government. As a government user we expect a good degree of sophistication when working with data. We have a shared responsibility to keep the right things safe.
+Government staff are responsible for checking the applications they use are secure. This guidance will help you use Lucidchart and Lucidpress securely.
 
-### About Lucid apps
+Lucidpress is a web-based drag and drop publishing and page layout application for creating print or digital content. Lucidchart is a web-based diagramming tool similar to Microsoft Visio.
 
-Lucidpress is a web-based drag and drop publishing and page layout application for creating print or digital content.
+### Securing your account
 
-Lucidchart is a web-based diagramming tool similar to Microsoft Visio.
+Secure your account by using:
 
-### Security
+* a password made up of [3 random words](https://www.ncsc.gov.uk/blog-post/three-random-words-or-thinkrandom-0)
+* a secure (HTTPS) connection and a [modern browser](https://whatbrowser.org/) or the [iOS app](https://lucidchart.zendesk.com/hc/en-us/articles/207300176-iOS-10-Lucidchart-App-Quickview)
 
-Use a password made up of 3 random words, and ask your IT team to [setup single sign on](https://lucidchart.zendesk.com/hc/en-us/articles/207300096-Lucidchart-and-SAML). Lucid do not yet support two factor authentication.
+You can also ask your IT team to [setup single sign on](https://lucidchart.zendesk.com/hc/en-us/articles/207300096-Lucidchart-and-SAML).
 
+Tell your Slack administrator if you :
+
+* think someone may have accessed your account
+* lose a device that can access your account (you should also [sign yourself out of all channel sessions](https://www.bettercloud.com/monitor/the-academy/how-to-sign-out-of-slack-on-all-devices-at-once/))
 If you think someone may have accessed your account contact your administrator.
-
-Use a [modern browser](https://whatbrowser.org) or the [iOS app](https://lucidchart.zendesk.com/hc/en-us/articles/207300176-iOS-10-Lucidchart-App-Quickview) to make sure you are using a secure (HTTPS) connection.
 
 ### Privacy
 
