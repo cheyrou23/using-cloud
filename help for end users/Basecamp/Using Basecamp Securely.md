@@ -1,10 +1,10 @@
-***Using Basecamp***
+## Using Basecamp
 
 As a government user you share the responsibility to keep information safe and to work securely. This guidance will help you use Basecamp securely.
 
 Basecamp is a web-based project management and communication tool designed to improve the organisation of projects. Use it to collaborate on projects through the uploading and sharing of documents within teams, chat, message boards, and scheduling meetings.
 
-**Securing your account**
+### Securing your account
 
 Secure your Basecamp account by using:
 
@@ -17,7 +17,7 @@ Contact your Basecamp administrator if you:
 - think someone may have accessed your account
 - lose a device that can access your Basecamp account (you should also [change your password](https://launchpad.37signals.com/identity/login_option))
 
-**Protecting your data**
+### Protecting your data
 
 To protect your data when using Basecamp, make sure you:
 
@@ -32,7 +32,7 @@ When using Basecamp, you should also be aware that all content can be:
 
 Basecamp have signed up to the [EU-US Privacy Shield](https://basecamp.com/about/policies/privacy/privacy-shield-safe-harbor) which means they say they follow European data protection requirements for European customers. [You own the data](https://basecamp.com/about/policies/terms) you put in Basecamp, and their technical security is similar to other popular public cloud services.
 
-**Managing your information**
+### Managing your information
 
 Sometimes you need to refer back to information in Basecamp projects. As a civil servant, you also need to keep save a permanent record at regular intervals or at the end of a piece of work.
 
@@ -49,7 +49,7 @@ You can export data from Basecamp by:
 - exporting individual documents manually
 - downloading scheduling appointments [using the iCalendar standard](https://basecamp.com/help/2/guides/calendar/sync-basecamp-calendar)
 
-**Getting started**
+### Getting started
 
 Ensure your account looks official and similar to other government Basecamp accounts by:
 
@@ -63,7 +63,7 @@ Think about how information might look in public if it were disclosed, particula
 
 
 
-**Getting help**
+### Getting help
 
 For help using Basecamp, you can:
 
