@@ -1,4 +1,4 @@
-## Secure email delivery build for G Suite
+## Set up government email services securely - G Suite
 
 How to implement the guidance on [securing government email](https://www.gov.uk/guidance/securing-government-email) in G Suite (formerly Google Apps) to provide encryption, anti-spoofing, and to pass an assessment. Doing these things will add your domain to a whitelist of secure domains which organisations can use to filter email.
 
