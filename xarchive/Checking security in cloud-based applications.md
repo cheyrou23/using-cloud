@@ -1,4 +1,4 @@
-##Checking security in cloud-based applications
+## Checking security in cloud-based applications
 
 Check if a cloud-based application is safe to use.
 
