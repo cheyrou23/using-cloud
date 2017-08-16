@@ -14,27 +14,27 @@ This guidance provides help for end users on common cloud applications.  It incl
 
 ### Current guides
 
-[Basecamp](Basecamp/Using-Basecamp-Securely)
+[Basecamp](Basecamp/Using-Basecamp-securely)
 
 [Confluence-Cloud](Confluence-Cloud/Using-Confluence-Cloud-securely)
 
-[HipChat](HipChat/Using-HipChat-Securely)
+[HipChat](HipChat/Using-HipChat-securely)
 
-[JIRA-Cloud](JIRA-Cloud/Using-JIRA-Cloud-Securely)
+[JIRA-Cloud](JIRA-Cloud/Using-JIRA-Cloud-securely)
 
-[Lucidchart](Lucidchart/Using-Lucidchart-Securely)
+[Lucidchart](Lucidchart/Using-Lucidchart-securely)
 
-[MailChimp](MailChimp/Using-MailChimp-Securely)
+[MailChimp](MailChimp/Using-MailChimp-securely)
 
-[Slack](Slack/Using-Slack-Securely)
+[Slack](Slack/Using-Slack-securely)
 
-[Smartsheet](Slack/Using-Slack-Securely)
+[Smartsheet](Slack/Using-Slack-securely)
 
-[Trello](Trello/Using-Trello-Securely)
+[Trello](Trello/Using-Trello-securely)
 
-[Yammer](Yammer/Using-Yammer-Securely)
+[Yammer](Yammer/Using-Yammer-securely)
 
-[Zendesk](Zendesk/Using-Zendesk-Securely)
+[Zendesk](Zendesk/Using-Zendesk-securely)
 
 ### Adding guides or reporting issues
 
