@@ -1,4 +1,4 @@
-## Help for end users to use common cloud applications securely
+## Help using common cloud applications securely
 
 This guidance provides help for end users on common cloud applications.  It includes:
 
@@ -14,27 +14,17 @@ This guidance provides help for end users on common cloud applications.  It incl
 
 ### Current guides
 
-[Basecamp](Basecamp/Using-Basecamp-securely)
-
-[Confluence-Cloud](Confluence-Cloud/Using-Confluence-Cloud-securely)
-
-[HipChat](HipChat/Using-HipChat-securely)
-
-[JIRA-Cloud](JIRA-Cloud/Using-JIRA-Cloud-securely)
-
-[Lucidchart](Lucidchart/Using-Lucidchart-securely)
-
-[MailChimp](MailChimp/Using-MailChimp-securely)
-
-[Slack](Slack/Using-Slack-securely)
-
-[Smartsheet](Slack/Using-Slack-securely)
-
-[Trello](Trello/Using-Trello-securely)
-
-[Yammer](Yammer/Using-Yammer-securely)
-
-[Zendesk](Zendesk/Using-Zendesk-securely)
+* [Basecamp](Basecamp/Using-Basecamp-securely)
+* [Confluence-Cloud](Confluence-Cloud/Using-Confluence-Cloud-securely)
+* [HipChat](HipChat/Using-HipChat-securely)
+* [JIRA-Cloud](JIRA-Cloud/Using-JIRA-Cloud-securely)
+* [Lucidchart](Lucidchart/Using-Lucidchart-securely)
+* [MailChimp](MailChimp/Using-MailChimp-securely)
+* [Slack](Slack/Using-Slack-securely)
+* [Smartsheet](Slack/Using-Slack-securely)
+* [Trello](Trello/Using-Trello-securely)
+* [Yammer](Yammer/Using-Yammer-securely)
+* [Zendesk](Zendesk/Using-Zendesk-securely)
 
 ### Adding guides or reporting issues
 
