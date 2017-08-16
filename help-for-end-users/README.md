@@ -10,9 +10,9 @@ This guidance provides help for end users on common cloud applications.  Guidanc
 
 ### Current applications
 
-[Basecamp](/Basecamp/Using-Basecamp-Securely)
+[Basecamp](Basecamp/Using-Basecamp-Securely)
 
-[Confluence-Cloud]
+[Confluence-Cloud](Confluence-Cloud/Using-Confluence-Cloud-Securely)
 
 HipChat
 
