@@ -1,42 +1,45 @@
 ## Help for end users to use common cloud applications securely
 
-This guidance provides help for end users on common cloud applications.  Guidance includes:
+This guidance provides help for end users on common cloud applications.  It includes:
 
-* Securing your account
-* Protecting your data
-* Managing your information
-* Getting started
-* Getting help
+* securing your account
+* protecting your data
+* managing your information
+* getting started
+* getting help
 
-### Current applications
+> These guides are likely to go out of date as applications change and new ones appear.
+>
+> The existence of guidance for a service doesn't imply endorsement or provide a guarantee of security.
+
+### Current guides
 
 [Basecamp](Basecamp/Using-Basecamp-Securely)
 
-[Confluence-Cloud](Confluence-Cloud/Using-Confluence-Cloud-Securely)
+[Confluence-Cloud](Confluence-Cloud/Using-Confluence-Cloud-securely)
 
-HipChat
+[HipChat](HipChat/Using-HipChat-Securely)
 
-JIRA-Cloud
+[JIRA-Cloud](JIRA-Cloud/Using-JIRA-Cloud-Securely)
 
-Lucidchart
+[Lucidchart](Lucidchart/Using-Lucidchart-Securely)
 
-MailChimp
+[MailChimp](MailChimp/Using-MailChimp-Securely)
 
-Slack
+[Slack](Slack/Using-Slack-Securely)
 
-Smartsheet
+[Smartsheet](Slack/Using-Slack-Securely)
 
-Trello
+[Trello](Trello/Using-Trello-Securely)
 
-Yammer
+[Yammer](Yammer/Using-Yammer-Securely)
 
-Zendesk
+[Zendesk](Zendesk/Using-Zendesk-Securely)
 
-Note that:
-
-* these guides are likely to go out of date as applications change and new ones appear.
-* the existence of guidance for a service doesn't imply endorsement or provide a guarantee of security.
+### Adding guides or reporting issues
 
 Report issues with existing documents through the 'Issues' tab above (requires a Github account)
 
 Request access to the repository to submit changes directly, or upload new documents
+
+You can use these documents as templates to create and submit guides for other applications.
