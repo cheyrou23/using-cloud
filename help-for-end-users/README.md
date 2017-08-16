@@ -11,7 +11,9 @@ This guidance provides help for end users on common cloud applications.  Guidanc
 ### Current applications
 
 [Basecamp](https://cheyrou23.github.io/using-cloud/help%20for%20end%20users/Basecamp/Using%20Basecamp%20Securely)
+
 Trello
+
 Slack
 
 Note that:
