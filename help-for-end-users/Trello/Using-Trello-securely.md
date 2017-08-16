@@ -1,3 +1,7 @@
+[Return to the index page](/using-cloud/help-for-end-users/) | [Print this page](https://gitprint.com/cheyrou23/using-cloud/blob/master/help-for-end-users/Trello/Using-Trello-securely.md)
+
+***
+
 ## Using Trello securely
 
 Government staff are responsible for checking the applications they use are secure. This guidance will help you use Trello to work securely with colleagues.
@@ -77,3 +81,7 @@ Trello offer support through a:
 * [status page](http://www.trellostatus.com/)
  
 You may also get help from your internal IT team if they have agreed to do it.
+
+***
+
+[Return to the index page](/using-cloud/help-for-end-users/) | [Print this page](https://gitprint.com/cheyrou23/using-cloud/blob/master/help-for-end-users/Trello/Using-Trello-securely.md)

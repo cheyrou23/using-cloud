@@ -1,3 +1,7 @@
+[Return to the index page](/using-cloud/help-for-end-users/) | [Print this page](https://gitprint.com/cheyrou23/using-cloud/blob/master/help-for-end-users/Slack/Using-Slack-securely.md)
+
+***
+
 ## Using Slack in Government
 
 Government staff are responsible for checking the applications they use are secure. This guidance will help you use Slack to communicate securely with colleagues.
@@ -96,3 +100,7 @@ You may also access further support from:
 
 * a service level agreement if you have a [paid Slack account](https://slack.com/pricing)
 * your internal IT team (if you have agreed a support arrangement with them)
+
+***
+
+[Return to the index page](/using-cloud/help-for-end-users/) | [Print this page](https://gitprint.com/cheyrou23/using-cloud/blob/master/help-for-end-users/Slack/Using-Slack-securely.md)

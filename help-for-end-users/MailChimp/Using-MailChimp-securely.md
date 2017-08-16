@@ -1,3 +1,7 @@
+[Return to the index page](/using-cloud/help-for-end-users/) | [Print this page](https://gitprint.com/cheyrou23/using-cloud/blob/master/help-for-end-users/MailChimp/Using-MailChimp-securely.md)
+
+***
+
 ## Using MailChimp securely
 
 As a government user you share the responsibility to keep information safe and to work securely. This guidance will help you use MailChimp securely.
@@ -76,3 +80,7 @@ MailChimp offer support through a:
 - [status page](https://status.mailchimp.com/)
 
 You may also access further support from your internal IT team (if you have agreed a support arrangement with them).
+
+***
+
+[Return to the index page](/using-cloud/help-for-end-users/) | [Print this page](https://gitprint.com/cheyrou23/using-cloud/blob/master/help-for-end-users/MailChimp/Using-MailChimp-securely.md)

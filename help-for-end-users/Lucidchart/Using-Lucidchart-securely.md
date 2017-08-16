@@ -1,3 +1,7 @@
+[Return to the index page](/using-cloud/help-for-end-users/) | [Print this page](https://gitprint.com/cheyrou23/using-cloud/blob/master/help-for-end-users/Lucidchart/Using-Lucidchart-securely.md)
+
+***
+
 ## Using Lucidchart and Lucidpress
 
 Government staff are responsible for checking the applications they use are secure. This guidance will help you use Lucidchart and Lucidpress securely.
@@ -64,3 +68,7 @@ To keep license numbers down you can periodically revoke all user licenses. This
 Allow users to [connect Lucidchart and Lucidpress to Google Drive](https://lucidchart.zendesk.com/hc/en-us/articles/207300016-Lucidchart-in-Google-Drive) if it is used in your organisation, as it only requires permissions to files created in Lucid applications, not the entire Drive.
 
 Consider a paid Enterprise account to prevent unmonitored use, manage document access, integrate into your existing single sign on service, and retain documents when people leave.
+
+***
+
+[Return to the index page](/using-cloud/help-for-end-users/) | [Print this page](https://gitprint.com/cheyrou23/using-cloud/blob/master/help-for-end-users/Lucidchart/Using-Lucidchart-securely.md)

@@ -1,3 +1,7 @@
+[Return to the index page](/using-cloud/help-for-end-users/) | [Print this page](https://gitprint.com/cheyrou23/using-cloud/blob/master/help-for-end-users/JIRA-Cloud/Using-JIRA-Cloud-securely.md)
+
+***
+
 ## Using JIRA Cloud
 
 As a government user we expect a good degree of sophistication when working with data. We have a shared responsibility to keep the right things safe. This guidance will help you use [JIRA Cloud](https://www.atlassian.com/software/jira/features) to collaborate securely with colleagues.
@@ -68,3 +72,7 @@ Atlassian offer support through a:
 - [status page](http://status.atlassian.com/)
 
 You may also get help from your internal IT team if they have agreed to do it.
+
+***
+
+[Return to the index page](/using-cloud/help-for-end-users/) | [Print this page](https://gitprint.com/cheyrou23/using-cloud/blob/master/help-for-end-users/JIRA-Cloud/Using-JIRA-Cloud-securely.md)

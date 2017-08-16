@@ -1,6 +1,6 @@
-[Return to the index page](/using-cloud/help-for-end-users/) | [Print this page](https://gitprint.com/cheyrou23/using-cloud/blob/master/help-for-end-users/Basecamp/Using-Basecamp-Securely.md)
+[Return to the index page](/using-cloud/help-for-end-users/) | [Print this page](https://gitprint.com/cheyrou23/using-cloud/blob/master/help-for-end-users/Basecamp/Using-Basecamp-securely.md)
 
----
+***
 
 ## Using Basecamp
 
@@ -82,5 +82,6 @@ Basecamp offer support through a:
 
 You may also access further support from your internal IT team (if you have agreed a support arrangement with them).
 
----
-[Return to the index page](/using-cloud/help-for-end-users/) | [Print this page](https://gitprint.com/cheyrou23/using-cloud/blob/master/help-for-end-users/Basecamp/Using-Basecamp-Securely.md)
+***
+
+[Return to the index page](/using-cloud/help-for-end-users/) | [Print this page](https://gitprint.com/cheyrou23/using-cloud/blob/master/help-for-end-users/Basecamp/Using-Basecamp-securely.md)
