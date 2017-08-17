@@ -6,7 +6,7 @@
 
 Government staff are responsible for checking the applications they use are secure. This guidance will help you use Confluence Cloud to collaborate securely with colleagues.
 
-Confluence Cloud is a collaboration application for creating, organising, and discuss work in a team. You can use it to create and manage content, comment and suggest changes.
+[Confluence Cloud](https://www.atlassian.com/software/confluence) is a collaboration application for creating, organising, and discuss work in a team. You can use it to create and manage content, comment and suggest changes.
 
 ### Securing your account
 
