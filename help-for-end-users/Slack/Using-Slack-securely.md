@@ -6,6 +6,8 @@
 
 Government staff are responsible for checking the applications they use are secure. This guidance will help you use Slack to communicate securely with colleagues.
 
+[Slack](https://slack.com/) is a cloud-based set of team collaboration tools and services.
+
 ### Securing your account
 Secure your Slack account by using:
 
