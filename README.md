@@ -1,35 +1,12 @@
 # Using Cloud
 
-#### Guidance to help people use cloud applications in a sensibly secure way
+This repository contains documents for:
 
-This repository contains two groups of documents aims at distinct groups of people:
+## [1. end users (or less technical support staff)](help-for-end-users)
+ - helping them use specific applications securely
 
-* information security professionals
-* end users or less technical support staff
+## 2. information security people
+ - links to NCSC guidance helping them choose secure applications, and evaluate the security of specific services
 
-### Help for end users
-
-Documents for end users include guidance on:
-
-* choosing good cloud-based applications
-* checking security in cloud-based applications
-* using specific services
-
-You will need to sign up for a github account to access the third set of documents.
-
-### Help for information security people
-
-Documents for information security people includes guidance on:
-
-* checking security in cloud-based applications
-* examples of security evaluations for specific services
-
-You will need to sign up for a github account to access the third set of documents.
-
-### Help for technology people
-
-Documents for technology people includes guidance on:
-
-* setting up particular services securely
-
-Use the Issues section to provide feedback on documents, or submit changes to provide updates.
+## 3. technology people
+ - helping them set up specific services in a secure way
