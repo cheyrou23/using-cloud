@@ -6,7 +6,7 @@
 
 Government staff are responsible for checking the applications they use are secure. This guidance will help you use HipChat to communicate securely with colleagues.
 
-HipChat is a cloud application for internal chat and messaging, either 1-to-1 or in a group. You can also use it to store files, make video calls, and search message history.
+[HipChat](https://www.atlassian.com/software/hipchat) is a cloud application for internal chat and messaging, either 1-to-1 or in a group. You can also use it to store files, make video calls, and search message history.
 
 ### Securing your account
 
