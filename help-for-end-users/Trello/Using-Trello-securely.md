@@ -6,7 +6,7 @@
 
 Government staff are responsible for checking the applications they use are secure. This guidance will help you use Trello to work securely with colleagues.
 
-Trello is a cloud application for managing projects and sharing tasks.
+[Trello](https://trello.com/) is a cloud application for managing projects and sharing tasks.
 
 ### Secure your account
 
