@@ -6,7 +6,7 @@
 
 As a government user you share the responsibility to keep information safe and to work securely. This guidance will help you use Smartsheet securely.
 
-Smartsheet is a web-based project and task management tool that lets you assign work to teams or people and track progress in real time.
+[Smartsheet](https://www.smartsheet.com/) is a web-based project and task management tool that lets you assign work to teams or people and track progress in real time.
 
 ### Securing your account
 
