@@ -6,7 +6,7 @@
 
 As a government user you share the responsibility to keep information safe and to work securely. This guidance will help you use Basecamp securely.
 
-Basecamp is a web-based project management and communication tool designed to improve the organisation of projects. Use it to collaborate on projects through the uploading and sharing of documents within teams, chat, message boards, and scheduling meetings.
+[Basecamp](https://basecamp.com/) is a web-based project management and communication tool designed to improve the organisation of projects. Use it to collaborate on projects through the uploading and sharing of documents within teams, chat, message boards, and scheduling meetings.
 
 ### Securing your account
 
