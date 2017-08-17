@@ -6,7 +6,7 @@
 
 As a government user we expect a good degree of sophistication when working with data. We have a shared responsibility to keep the right things safe. This guidance will help you use [JIRA Cloud](https://www.atlassian.com/software/jira/features) to collaborate securely with colleagues.
 
-JIRA Cloud is an issue and task tracking application, developed by Atlassian. It provides bug tracking, issue tracking, and project management functions.
+[JIRA Cloud](https://www.atlassian.com/software/jira) is an issue and task tracking application, developed by Atlassian. It provides bug tracking, issue tracking, and project management functions.
 
 ### Securing your account
 
