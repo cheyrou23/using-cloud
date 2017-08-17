@@ -6,7 +6,7 @@
 
 Government staff are responsible for checking the applications they use are secure. This guidance will help you use Lucidchart and Lucidpress securely.
 
-Lucidpress is a web-based drag and drop publishing and page layout application for creating print or digital content. Lucidchart is a web-based diagramming tool similar to Microsoft Visio.
+[Lucidpress](https://www.lucidpress.com/) is a web-based drag and drop publishing and page layout application for creating print or digital content. [Lucidchart](https://www.lucidchart.com/) is a web-based diagramming tool similar to Microsoft Visio.
 
 ### Securing your account
 
