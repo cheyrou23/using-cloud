@@ -6,7 +6,7 @@
 
 As a government user you share the responsibility to keep information safe and to work securely. This guidance will help you use MailChimp securely.
 
-MailChimp is an email service for sending automated messages, marketing emails and targeted campaigns. MailChimp lets you send notifications to clients, customers and third parties.
+[MailChimp](https://mailchimp.com/) is an email service for sending automated messages, marketing emails and targeted campaigns. MailChimp lets you send notifications to clients, customers and third parties.
 
 ### Securing your account
 
